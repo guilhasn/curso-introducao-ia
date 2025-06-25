@@ -15,17 +15,17 @@ Nesta sessão, os formandos irão:
 
 ## 📚 Conteúdos Teóricos
 
-1. [📘 Understanding Artificial Intelligence – Curso na DataCamp](https://app.datacamp.com/learn/courses/understanding-artificial-intelligence)
+1. [📘 Understanding Artificial Intelligence – Curso na DataCamp](https://app.datacamp.com/learn/courses/understanding-artificial-intelligence){:target="_blank"}
 
-2. [📊 O que é IA, ML e DL (GenSpark Slides)](https://www.genspark.ai/slides?project_id=ca77b70e-b768-4923-88c3-f52256f3c63e)
+2. [📊 O que é IA, ML e DL (GenSpark Slides)](https://www.genspark.ai/slides?project_id=ca77b70e-b768-4923-88c3-f52256f3c63e){:target="_blank"}
 
-3. [🧠 O que são LLMs – Inteligência Artificial Hoje](https://inteligenciaartificialhoje.pt/o-que-sao-os-llms/)
+3. [🧠 O que são LLMs – Inteligência Artificial Hoje](https://inteligenciaartificialhoje.pt/o-que-sao-os-llms/){:target="_blank"}
 
-4. [✍️ O que é Prompt Engineering](https://inteligenciaartificialhoje.pt/o-que-e-o-prompt-engineering/)
+4. [✍️ O que é Prompt Engineering](https://inteligenciaartificialhoje.pt/o-que-e-o-prompt-engineering/){:target="_blank"}
 
-5. [⚖️ Introdução aos enviesamentos da IA Generativa](https://inteligenciaartificialhoje.pt/introducao-aos-enviesamentos-em-ia-generativa/)
+5. [⚖️ Introdução aos enviesamentos da IA Generativa](https://inteligenciaartificialhoje.pt/introducao-aos-enviesamentos-em-ia-generativa/){:target="_blank"}
 
-6. [🧾 Tipos de Prompt para IA Generativa](https://inteligenciaartificialhoje.pt/os-tipos-de-prompt-para-a-ia-generativa/)
+6. [🧾 Tipos de Prompt para IA Generativa](https://inteligenciaartificialhoje.pt/os-tipos-de-prompt-para-a-ia-generativa/){:target="_blank"}
 
 ---
 
@@ -37,8 +37,8 @@ Sugere-se que os formandos explorem todos os conteúdos listados acima, focando-
 
 ## 📝 Exercício Prático
 
-**[[Questionário 1](https://g.co/gemini/share/27a409279756)]**
-**[[Questionário 1](https://g.co/gemini/share/27a409279756)]**
+**[[Questionário 1](https://g.co/gemini/share/27a409279756){:target="_blank"}]**
+**[[Questionário 1](https://g.co/gemini/share/27a409279756){:target="_blank"}]**
 
 ---
 
