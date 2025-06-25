@@ -37,8 +37,8 @@ Sugere-se que os formandos explorem todos os conteúdos listados acima, focando-
 
 ## 📝 Exercício Prático
 
-> Será disponibilizado um **link para questionário online**, onde os formandos devem responder a questões de consolidação dos conteúdos estudados.  
-**[[Link para o exercício – a disponibilizar](https://g.co/gemini/share/27a409279756)]**
+**[[Questionário 1](https://g.co/gemini/share/27a409279756)]**
+**[[Questionário 1](https://g.co/gemini/share/27a409279756)]**
 
 ---
 
