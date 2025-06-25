@@ -25,6 +25,10 @@ Este curso é dirigido a iniciantes que pretendem explorar, de forma prática, o
 | 4      | Tradução e reformulação de textos                       | Em preparação                    |
 | …      | …                                                      | …                                 |
 
+
+| Sessão 1 – Fundamentos | [01_teoria_fundamentos.md](01_teoria_fundamentos.md) |
+
+
 ---
 
 ## 🔗 Recursos Complementares
