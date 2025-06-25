@@ -26,7 +26,7 @@ Este curso é dirigido a iniciantes que pretendem explorar, de forma prática, o
 | …      | …                                                      | …                                 |
 
 
-| Sessão 1 – Fundamentos | [01_teoria_fundamentos.md](01_teoria_fundamentos.md) |
+| Sessão 1 – Fundamentos | Sessão 1 – Fundamentos e Ferramentas de IA.md) |
 
 
 ---
