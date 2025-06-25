@@ -37,8 +37,9 @@ Sugere-se que os formandos explorem todos os conteúdos listados acima, focando-
 
 ## 📝 Exercício Prático
 
-**[[Questionário 1](https://g.co/gemini/share/27a409279756)]**
-**[[Questionário 1](https://g.co/gemini/share/27a409279756)**
+**[[Questionário 1](https://g.co/gemini/share/a221ea830b4f)]**
+
+**[[Questionário 2](https://g.co/gemini/share/27a409279756)**
 
 ---
 
