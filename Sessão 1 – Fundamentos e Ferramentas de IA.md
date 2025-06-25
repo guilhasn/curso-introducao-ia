@@ -52,4 +52,3 @@ Sugere-se que os formandos explorem todos os conteúdos listados acima, focando-
 
 ---
 
-📁 *Guarda este ficheiro em `sessoes/sessao1_fundamentos.md` no teu repositório GitHub.*
