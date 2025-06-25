@@ -15,17 +15,17 @@ Nesta sessão, os formandos irão:
 
 ## 📚 Conteúdos Teóricos
 
-1. [📘 Understanding Artificial Intelligence – Curso na DataCamp](https://app.datacamp.com/learn/courses/understanding-artificial-intelligence){:target="_blank"}
+1. <a href="https://app.datacamp.com/learn/courses/understanding-artificial-intelligence" target="_blank">📘 Understanding Artificial Intelligence – Curso na DataCamp</a>
 
-2. [📊 O que é IA, ML e DL (GenSpark Slides)](https://www.genspark.ai/slides?project_id=ca77b70e-b768-4923-88c3-f52256f3c63e){:target="_blank"}
+2. <a href="https://www.genspark.ai/slides?project_id=ca77b70e-b768-4923-88c3-f52256f3c63e" target="_blank">📊 O que é IA, ML e DL (GenSpark Slides)</a>
 
-3. [🧠 O que são LLMs – Inteligência Artificial Hoje](https://inteligenciaartificialhoje.pt/o-que-sao-os-llms/){:target="_blank"}
+3. <a href="https://inteligenciaartificialhoje.pt/o-que-sao-os-llms/" target="_blank">🧠 O que são LLMs – Inteligência Artificial Hoje</a>
 
-4. [✍️ O que é Prompt Engineering](https://inteligenciaartificialhoje.pt/o-que-e-o-prompt-engineering/){:target="_blank"}
+4. <a href="https://inteligenciaartificialhoje.pt/o-que-e-o-prompt-engineering/" target="_blank">✍️ O que é Prompt Engineering</a>
 
-5. [⚖️ Introdução aos enviesamentos da IA Generativa](https://inteligenciaartificialhoje.pt/introducao-aos-enviesamentos-em-ia-generativa/){:target="_blank"}
+5. <a href="https://inteligenciaartificialhoje.pt/introducao-aos-enviesamentos-em-ia-generativa/" target="_blank">⚖️ Introdução aos enviesamentos da IA Generativa</a>
 
-6. [🧾 Tipos de Prompt para IA Generativa](https://inteligenciaartificialhoje.pt/os-tipos-de-prompt-para-a-ia-generativa/){:target="_blank"}
+6. <a href="https://inteligenciaartificialhoje.pt/os-tipos-de-prompt-para-a-ia-generativa/" target="_blank">🧾 Tipos de Prompt para IA Generativa</a>
 
 ---
 
