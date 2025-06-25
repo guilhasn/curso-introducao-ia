@@ -1,6 +1,6 @@
 # 🧪 Ficha Prática – Engenharia de Prompt Avançada
 
-## 🎯 Objetivos da sessão
+## 🎯 Objetivos da Exercicio Prático
 
 - Utilizar técnicas avançadas de engenharia de prompt
 - Trabalhar com estruturação de respostas, formatação e estilo
