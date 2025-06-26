@@ -1,89 +1,137 @@
-# 💡 100 Utilizações Práticas da Inteligência Artificial
+# 💡 100 Utilizações Práticas da Inteligência Artificial por Categoria
 
-# 💡 100 Utilizações Práticas da Inteligência Artificial
-
-Cada uma destas utilizações vem acompanhada de um exemplo prático.
+## 📂 Escrita e Texto
 
 | Utilização com IA | Exemplo Prático |
 |-------------------|------------------|
-| Gerar textos para artigos de blog | Ex: Gerar artigos com IA |
-| Traduzir textos entre vários idiomas | Ex: Traduzir documentos com IA |
-| Criar resumos automáticos de documentos | Ex: Resumir relatórios com IA |
-| Gerar imagens a partir de descrições | Ex: Criar ilustrações com IA |
-| Fazer legendas automáticas para vídeos | Ex: Legendar vídeos com IA |
-| Criar apresentações em PowerPoint | Ex: Gerar slides com IA |
-| Corrigir gramática e ortografia | Ex: Rever textos com IA |
-| Responder a e-mails automaticamente | Ex: Criar respostas automáticas com IA |
-| Criar voz artificial a partir de texto | Ex: Gerar narração de vídeos com IA |
-| Simular conversas com avatares | Ex: Usar IA para chatbots realistas |
-| Gerar código em várias linguagens de programação | Ex: Criar funções Python com IA |
-| Corrigir bugs em código | Ex: Detetar e corrigir erros com IA |
-| Criar vídeos curtos para redes sociais | Ex: Criar reels automáticos com IA |
-| Gerar posts para LinkedIn ou Instagram | Ex: Gerar conteúdos sociais com IA |
-| Organizar ideias em mapas mentais | Ex: Mapear brainstorming com IA |
-| Fazer recomendações de produtos personalizadas | Ex: Recomendar produtos em lojas online |
-| Analisar sentimentos em comentários ou textos | Ex: Avaliar feedback com IA |
-| Fazer previsão de vendas | Ex: Estimar resultados com IA |
-| Gerar thumbnails para YouTube | Ex: Criar capas de vídeo com IA |
-| Produzir músicas com base em estilo e letra | Ex: Compor faixas com IA |
-| Apoiar no estudo com explicações simplificadas | Ex: Explicar conceitos complexos com IA |
-| Criar quizzes e testes personalizados | Ex: Gerar questionários com IA |
-| Automatizar atendimento ao cliente | Ex: Criar assistentes virtuais com IA |
-| Fazer diagnósticos preliminares na área da saúde | Ex: Analisar sintomas com IA |
-| Criar tutoriais técnicos | Ex: Escrever guias com IA |
-| Analisar grandes volumes de dados | Ex: Gerar insights com IA |
-| Fazer reconhecimento de imagem | Ex: Identificar objetos em fotos |
-| Detetar objetos em imagens | Ex: Contar veículos numa imagem com IA |
-| Ajudar a programar bots para redes sociais | Ex: Criar bot para Twitter com IA |
-| Automatizar fluxos de trabalho (ex: N8N, Zapier) | Ex: Ligar apps automaticamente com IA |
-| Conversar com documentos PDF | Ex: Fazer perguntas a relatórios com IA |
-| Analisar contratos automaticamente | Ex: Extrair cláusulas com IA |
-| Detetar plágio em textos | Ex: Verificar originalidade com IA |
-| Fazer planeamento de viagens personalizado | Ex: Criar itinerário com IA |
-| Criar um chatbot para websites | Ex: Instalar assistente virtual com IA |
-| Descrever imagens para invisuais | Ex: Gerar descrições acessíveis com IA |
-| Classificar e organizar e-mails | Ex: Filtrar e-mails por temas com IA |
-| Criar templates para newsletters | Ex: Gerar modelos com IA |
-| Gerar nomes de marcas ou produtos | Ex: Nomear projeto com IA |
-| Apoiar na escrita de livros ou ficção | Ex: Desenvolver narrativa com IA |
-| Escrever scripts de vídeo ou teatro | Ex: Criar roteiros com IA |
-| Converter voz em texto | Ex: Transcrever reuniões com IA |
-| Gerar fórmulas de Excel | Ex: Criar funções complexas com IA |
-| Fazer análise de mercado automatizada | Ex: Avaliar concorrência com IA |
-| Ajudar a preparar apresentações orais | Ex: Escrever discurso com IA |
-| Gerar imagens de produtos para lojas online | Ex: Criar mockups com IA |
-| Criar mockups para apps e websites | Ex: Gerar protótipos com IA |
-| Dar ideias de negócios com base em tendências | Ex: Sugerir nichos com IA |
-| Avaliar o risco de crédito de clientes | Ex: Estimar risco com IA |
-| Organizar tarefas diárias com base em prioridades | Ex: Criar plano do dia com IA |
-| Personalizar planos de estudo | Ex: Criar cronograma de estudo com IA |
-| Simular entrevistas de emprego | Ex: Treinar respostas com IA |
-| Gerar contratos com base em modelos | Ex: Preencher cláusulas automaticamente |
-| Criar dashboards automáticos | Ex: Gerar relatórios visuais com IA |
-| Gerar FAQs para sites | Ex: Criar perguntas frequentes com IA |
-| Detetar fraudes em transações | Ex: Identificar padrões suspeitos |
-| Fazer análise de concorrência | Ex: Comparar produtos e serviços |
-| Ajudar no design de logótipos | Ex: Gerar propostas visuais com IA |
-| Criar experiências imersivas em VR | Ex: Gerar ambientes 3D com IA |
-| Traduzir linguagem jurídica para linguagem simples | Ex: Tornar contratos acessíveis |
-| Gerar timelines históricas ou cronogramas | Ex: Criar linha do tempo com IA |
-| Criar prompts para outras ferramentas de IA | Ex: Escrever prompts para Midjourney |
-| Realçar e remover ruído de áudio | Ex: Limpar gravações com IA |
-| Identificar padrões em dados de sensores | Ex: Detetar anomalias com IA |
-| Apoiar na manutenção preditiva | Ex: Antecipar falhas de máquinas |
-| Criar modelos preditivos para churn | Ex: Prever cancelamentos de clientes |
-| Fazer reconhecimento facial | Ex: Identificar utilizadores com IA |
-| Gerar personagens para jogos | Ex: Criar NPCs com IA |
-| Criar vídeos educativos animados | Ex: Explicar conteúdos escolares com IA |
-| Ajudar em diagnósticos veterinários | Ex: Avaliar sintomas em animais |
-| Analisar imagens médicas (ex: raio-X) | Ex: Detetar fraturas com IA |
-| Construir sistemas de recomendação | Ex: Sugerir filmes personalizados |
-| Fazer reconhecimento de voz em chamadas | Ex: Transcrever chamadas com IA |
-| Organizar base de dados de clientes | Ex: Limpar e classificar registos |
-| Fazer segmentação de clientes automaticamente | Ex: Agrupar perfis por comportamento |
-| Criar planos alimentares personalizados | Ex: Gerar dieta com base em preferências |
-| Analisar sentimentos em redes sociais | Ex: Medir reações a campanhas |
-| Gerar palavras-passe seguras | Ex: Criar senhas fortes com IA |
-| Ajudar na preparação de discursos | Ex: Estruturar argumentos com IA |
-| Transformar PDFs em texto estruturado | Ex: Extrair dados de formulários |
-| Preencher automaticamente formulários | Ex:
+| Gerar textos para artigos de blog | Usar IA para gerar artigos com base em palavras-chave específicas. |
+| Traduzir textos entre vários idiomas | Traduzir automaticamente um contrato jurídico do português para inglês com revisão de contexto. |
+| Criar resumos automáticos de documentos | Gerar um resumo executivo de um relatório de 50 páginas usando IA como o ChatGPT. |
+| Corrigir gramática e ortografia | Rever e corrigir automaticamente documentos com IA como o Grammarly ou ChatGPT. |
+| Gerar posts para LinkedIn ou Instagram | Criar posts com estrutura e linguagem adaptada à plataforma desejada. |
+| Apoiar na escrita de livros ou ficção | Sugerir enredos, personagens e diálogos para romances ou contos. |
+| Escrever scripts de vídeo ou teatro | Criar um guião completo com cenas e falas para um vídeo ou peça. |
+| Ajudar na preparação de discursos | Criar discursos públicos personalizados com base no público-alvo. |
+| Criar conteúdo para newsletters | Gerar conteúdos de valor para edições mensais automáticas. |
+| Gerar textos legais (avisos de privacidade, termos) | Criar textos jurídicos simples a partir de modelos. |
+
+## 📂 Multimédia e Criatividade
+
+| Utilização com IA | Exemplo Prático |
+|-------------------|------------------|
+| Gerar imagens a partir de descrições | Criar imagens promocionais com Midjourney a partir de descrições de texto simples. |
+| Fazer legendas automáticas para vídeos | Gerar automaticamente legendas multilíngua com Whisper ou CapCut. |
+| Criar apresentações em PowerPoint | Criar uma apresentação com conteúdo e design gerado automaticamente com Tome.app. |
+| Criar vídeos curtos para redes sociais | Gerar vídeos de 30 segundos com texto, imagem e som com Fliki ou Opus. |
+| Criar voz artificial a partir de texto | Usar IA como ElevenLabs para narrar vídeos com vozes realistas. |
+| Produzir músicas com base em estilo e letra | Compor faixas instrumentais ou com letra com IA como Soundraw. |
+| Gerar thumbnails para YouTube | Criar miniaturas atrativas a partir do conteúdo do vídeo. |
+| Criar vídeos educativos animados | Produzir vídeos com animações e voz-off geradas automaticamente. |
+| Criar capas de livros ou revistas | Gerar designs criativos para publicações com IA como Canva AI. |
+| Criar trailers automáticos para vídeos longos | Gerar automaticamente resumos em vídeo para redes sociais. |
+
+## 📂 Automatização e Produtividade
+
+| Utilização com IA | Exemplo Prático |
+|-------------------|------------------|
+| Responder a e-mails automaticamente | Criar respostas automáticas baseadas em histórico de comunicação. |
+| Automatizar atendimento ao cliente | Criar chatbots que respondem 24/7 com base em base de conhecimento. |
+| Organizar tarefas diárias com base em prioridades | Criar um plano diário otimizado com IA como Motion ou Notion AI. |
+| Automatizar fluxos de trabalho (ex: N8N, Zapier) | Conectar apps e automatizar tarefas recorrentes sem código. |
+| Preencher automaticamente formulários | Auto-completar dados em formulários administrativos. |
+| Criar dashboards automáticos | Gerar visualizações em Power BI ou Google Looker com base em datasets. |
+| Criar FAQs para sites | Gerar lista de perguntas frequentes com base nas dúvidas dos utilizadores. |
+| Atualizar gestão de inventário | Automatizar atualização de stock com base em entradas e saídas. |
+| Criar bots para responder no WhatsApp | Criar um assistente de resposta com IA integrado ao WhatsApp Business. |
+| Converter apresentações em texto corrido | Transformar slides em texto descritivo para acessibilidade ou relatórios. |
+
+## 📂 Programação e Desenvolvimento
+
+| Utilização com IA | Exemplo Prático |
+|-------------------|------------------|
+| Gerar código em várias linguagens de programação | Criar scripts em Python, JavaScript ou C# com base em uma descrição. |
+| Corrigir bugs em código | Identificar e corrigir automaticamente erros lógicos e de sintaxe. |
+| Ajudar a programar bots para redes sociais | Gerar scripts para interação automatizada em plataformas como Twitter. |
+| Gerar testes unitários para código | Criar testes com base na lógica da função escrita. |
+| Criar wireframes para apps e websites | Gerar estruturas visuais com base em descrições funcionais. |
+| Criar mockups para apps e websites | Criar protótipos visuais interativos com IA. |
+| Gerar APIs e endpoints | Criar estruturas RESTful com IA para backend. |
+| Detetar vulnerabilidades em código | Analisar trechos de código e propor melhorias de segurança. |
+| Otimizar queries SQL | Reescrever consultas SQL para melhor desempenho. |
+| Documentar código automaticamente | Gerar documentação clara com base no conteúdo do código. |
+
+## 📂 Análise e Dados
+
+| Utilização com IA | Exemplo Prático |
+|-------------------|------------------|
+| Fazer previsão de vendas | Estimar vendas futuras com modelos baseados em histórico. |
+| Analisar grandes volumes de dados | Identificar padrões e tendências em datasets complexos. |
+| Analisar sentimentos em comentários ou textos | Avaliar a perceção dos clientes sobre um serviço. |
+| Fazer análise de concorrência | Comparar ofertas, preços e feedback dos concorrentes. |
+| Detetar anomalias em séries temporais | Sinalizar desvios em métricas de desempenho ao longo do tempo. |
+| Criar modelos preditivos para churn | Prever quais clientes estão prestes a abandonar um serviço. |
+| Fazer análises SWOT automáticas | Gerar análises de forças, fraquezas, oportunidades e ameaças. |
+| Analisar produtividade de equipas | Gerar relatórios baseados em KPIs com IA. |
+| Criar segmentação de clientes automaticamente | Agrupar clientes com base em comportamento e perfil. |
+| Gerar relatórios de desempenho | Produzir documentos com análise automática de resultados. |
+
+## 📂 Educação e Aprendizagem
+
+| Utilização com IA | Exemplo Prático |
+|-------------------|------------------|
+| Apoiar no estudo com explicações simplificadas | Explicar conceitos difíceis com analogias acessíveis. |
+| Criar quizzes e testes personalizados | Gerar automaticamente questões com base num tema. |
+| Criar fichas de exercícios personalizadas | Adaptar materiais ao nível do aluno. |
+| Criar planos de estudo personalizados | Gerar cronogramas com base em objetivos e tempo disponível. |
+| Simular entrevistas de emprego | Treinar respostas com feedback gerado por IA. |
+| Gerar conteúdos educativos | Criar resumos, apresentações ou vídeos explicativos. |
+| Criar timelines históricas ou cronogramas | Representar eventos com datas de forma visual. |
+| Gerar storytelling de marca para aulas de marketing | Criar narrativas persuasivas com IA. |
+| Traduzir linguagem complexa para linguagem simples | Adaptar conteúdo técnico para alunos iniciantes. |
+| Criar explicações visuais para conceitos abstratos | Usar IA para gerar imagens ou diagramas explicativos. |
+
+## 📂 Marketing e Negócios
+
+| Utilização com IA | Exemplo Prático |
+|-------------------|------------------|
+| Fazer recomendações de produtos personalizadas | Sugerir itens com base no histórico de compras. |
+| Criar campanhas de email marketing | Gerar conteúdo e assunto otimizado para cliques. |
+| Gerar descrições de produtos para e-commerce | Criar textos com foco em SEO e persuasão. |
+| Gerar nomes de marcas ou produtos | Sugerir opções criativas com verificação de domínio. |
+| Gerar currículos personalizados | Criar CVs adaptados para cada vaga. |
+| Analisar concorrência e criar estratégia de diferenciação | Responder a concorrentes com mensagens direcionadas. |
+| Criar textos publicitários com base em personas | Personalizar anúncios com base em perfis. |
+| Gerar campanhas para redes sociais | Criar conteúdos adaptados por canal (IG, TikTok, X). |
+| Gerar logótipos e identidade visual | Criar identidade de marca a partir de palavras-chave. |
+| Avaliar risco de crédito com IA | Analisar automaticamente histórico financeiro e propor limites. |
+
+## 📂 Legal, Administrativo e Documentos
+
+| Utilização com IA | Exemplo Prático |
+|-------------------|------------------|
+| Analisar contratos automaticamente | Identificar cláusulas críticas e obrigações legais. |
+| Detetar plágio em textos | Verificar originalidade de trabalhos académicos. |
+| Gerar contratos com base em modelos | Preencher campos com IA com base num formulário. |
+| Transformar PDFs em texto estruturado | Extrair dados de faturas ou relatórios. |
+| Conversar com documentos PDF | Fazer perguntas e obter respostas diretas de documentos. |
+| Preencher automaticamente campos legais | Automatizar preenchimento de requerimentos administrativos. |
+| Traduzir documentos jurídicos | Preservar terminologia legal em múltiplas línguas. |
+| Criar termos e condições adaptados | Personalizar política de privacidade com base no serviço. |
+| Gerar documentos de candidatura | Produzir documentos formais com estrutura adequada. |
+| Avaliar documentos para conformidade | Validar requisitos legais com base em normas. |
+
+## 📂 Reconhecimento e Inteligência Visual
+
+| Utilização com IA | Exemplo Prático |
+|-------------------|------------------|
+| Fazer reconhecimento de imagem | Identificar objetos em fotografias para inventário. |
+| Detetar objetos em imagens | Contar veículos ou pessoas em imagens de vídeo. |
+| Fazer reconhecimento facial | Identificar utilizadores com IA em tempo real. |
+| Detetar fraudes em vídeos | Verificar autenticidade e integridade de filmagens. |
+| Detetar deepfakes | Avaliar se vídeos foram manipulados com IA. |
+| Analisar imagens médicas (ex: raio-X) | Identificar fraturas ou massas suspeitas. |
+| Realçar e remover ruído de áudio | Melhorar qualidade de gravações antigas ou ambientes ruidosos. |
+| Analisar emoções em vídeos | Avaliar reações emocionais a anúncios ou discursos. |
+| Criar experiências imersivas em VR | Criar cenários gerados dinamicamente com IA. |
+| Gerar personagens para jogos | Criar NPCs com aparência, voz e comportamento distintos. |
+
