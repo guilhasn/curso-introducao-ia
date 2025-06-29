@@ -25,7 +25,7 @@ Bem-vindo à lista curada de ferramentas de IA úteis para potenciar a criativid
 - [Flair AI](https://flair.ai/) – Fotografia de produto gerada por IA.  
 - [Cleanup.pictures](https://cleanup.pictures/) – Remove objetos ou elementos indesejados de imagens.  
 - [Watermark Remover](https://www.watermarkremover.io/) – Remove marcas d'água de imagens.
-
+- [Kittl makes it simple to create professional designs](https://www.kittl.com/) - Criar logotipos
 ---
 
 ## 🎥 Vídeo e Voz
