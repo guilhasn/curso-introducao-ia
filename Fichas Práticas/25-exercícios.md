@@ -49,7 +49,7 @@
 **Missão**: Compare 3 chatbots diferentes na mesma tarefa.  
 
 **Como fazer**:  
-1. Escolha uma tarefa complexa (ex: planejar viagem, criar estratégia de marketing)  
+1. Escolha uma tarefa complexa (ex: planear uma viagem, criar estratégia de marketing)  
 2. Use ChatGPT, Gemini e Claude com o mesmo prompt  
 3. Avalie:  
    - Precisão  
