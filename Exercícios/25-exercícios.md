@@ -25,18 +25,71 @@
 
 ---
 
-#### 🎭 2. Teatro da IA - Antes vs Depois  
-**Tempo**: 20 min | **Nível**: Iniciante  
+#### 🎭 2. Desafio de Perguntas Poderosas para IA  
+**Tempo:** 20 min | **Nível:** Iniciante  
 
-**Missão**: Demonstre visualmente sua evolução no entendimento sobre IA.  
+**Missão:** Criar e testar perguntas eficazes para obter melhores respostas da IA.  
 
-**Como fazer**:  
-1. Grave um vídeo de 30s representando você "antes do curso"  
-2. Grave outro vídeo representando você "depois"  
-3. Use figurinos, tons de voz, expressões diferentes  
-4. Poste comparando com hashtag `#MeuAntesEDepoisIA`  
+**Como fazer:**  
+1. Escolha um tema de interesse (ex: produtividade, saúde, tecnologia).  
+2. Escreva 5 perguntas diferentes sobre esse tema, variando a forma de perguntar (ex: direta, detalhada, hipotética).  
+3. Submeta cada pergunta à IA e analise as respostas obtidas.  
+4. Identifique quais perguntas geraram as respostas mais úteis e porquê.  
+5. Partilhe as melhores perguntas e resultados com colegas ou nas redes sociais usando a hashtag `#PerguntasPoderosasIA`.  
 
-**Resultado esperado**: Vídeo viral que inspire outros a aprender IA!  
+**Objetivo:** Aprender a formular perguntas que maximizem o valor das respostas geradas pela IA.
+
+---
+
+
+#### 🧠 3. Exploração de Capacidades da LLM
+** Tempo:**  10 min | **Nível:** Iniciante
+
+**Missão:** Conhecer os tipos de respostas que uma LLM pode gerar.
+
+**Como fazer:**
+Faça 5 perguntas variadas à LLM, incluindo:
+1. Uma pergunta factual (ex: "Quem foi Alan Turing?")
+2. Uma pergunta aberta (ex: "Qual o futuro da inteligência artificial?")
+3. Uma pergunta de opinião (ex: "Qual é o melhor livro sobre IA?")
+4.Uma pergunta criativa (ex: "Inventa uma história curta sobre um robot e um humano")
+5. Uma pergunta técnica (ex: "Explique o conceito de embedding em LLMs")
+
+Analise os tipos de resposta: factual, criativa, opinativa, técnica.
+Reflita sobre as limitações e pontos fortes observados.
+**Objetivo:** Entender a versatilidade e os limites das LLMs na geração de texto.
+
+---
+
+#### 🎯 4. Simulação de Assistente Virtual Especializado  
+**Tempo:** 30 min | **Nível:** Intermediário  
+
+**Missão:** Criar um diálogo com a LLM simulando um assistente especializado numa área à escolha.
+
+**Como fazer:**  
+1. Escolha uma área de conhecimento (ex: cibersegurança, finanças, educação).  
+2. Explique à LLM que quer que atue como um assistente especializado nessa área.  
+3. Prepare uma série de 5 perguntas relacionadas ao tema, que envolvam explicações, conselhos e exemplos práticos.  
+4. Interaja com a LLM como se fosse o assistente, anotando as respostas mais relevantes e úteis.  
+5. Avalie o desempenho da LLM em termos de precisão, clareza e utilidade.  
+
+**Objetivo:** Entender como as LLMs podem ser personalizadas para suportar tarefas específicas através do design das interações.
+
+---
+
+#### 🚀 5. Projetos Transformadores com LLMs  
+**Tempo:** 30 min | **Nível:** Avançado  
+
+**Missão:** Elaborar um plano estratégico para implementar LLMs num projeto real ou fictício.
+
+**Como fazer:**  
+1. Defina um problema ou objetivo concreto para o projeto (ex: automatizar atendimento ao cliente, análise de documentos, criação de conteúdos).  
+2. Identifique os recursos necessários (dados, APIs, infraestrutura, equipa).  
+3. Descreva as fases do projeto, incluindo: diagnóstico, design, implementação, testes, avaliação de impacto.  
+4. Determine indicadores de sucesso e métricas para medir o desempenho das LLMs no projeto.  
+5. Prepare uma apresentação resumida para stakeholders, destacando benefícios, riscos e próximos passos.  
+
+**Objetivo:** Aplicar conhecimentos sobre LLMs na gestão e planeamento de iniciativas inovadoras e transformadoras.
 
 ---
 
