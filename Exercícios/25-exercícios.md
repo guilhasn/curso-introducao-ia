@@ -157,6 +157,12 @@ Reflita sobre as limitações e pontos fortes observados.
 - Compare como muda a resposta
 - Identifique qual persona funciona melhor para cada tipo de tarefa
 
+Dica: 
+Quero que respondas à seguinte pergunta assumindo a persona de [nome da persona].  
+Características da persona: [definir tom, vocabulário, estilo, expertise].  
+Pergunta: [escrever pergunta]
+
+
 ---
 
 # 🏗️ 10. Construtor de Custom GPT  
