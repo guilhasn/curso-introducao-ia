@@ -10,12 +10,18 @@ Bem-vindo à lista curada de ferramentas de IA úteis para potenciar a criativid
 - [Hypertype](https://www.hypertype.co/) – Ajuda a escrever e-mails mais rápido.  
 - [Promptbase](https://promptbase.com/) – Os melhores prompts para o ChatGPT e Midjourney.  
 - [RytR Me](https://rytr.me/) – Assistente de copywriting com IA.  
-- [Manus AI](https://www.manus.ai/) – Alternativa ao ChatGPT com funcionalidades avançadas.  
 - [Perplexity AI](https://www.perplexity.ai/) – Motor de busca com IA baseado em fontes fiáveis.  
 - [Notion AI](https://www.notion.so/product/ai) – Assistente de escrita e produtividade integrado no Notion.  
 - [Longshot AI](https://www.longshot.ai/) – Criação de artigos para blogs.  
 - [Magical](https://www.getmagical.com/) – Automatização de preenchimento de dados e respostas.  
 - [TL;DV](https://tldv.io/) – Geração de resumos de reuniões.
+
+---
+
+## ✍️ Agentes de IA
+- [GenSpark](ttps://www.genspark.ai/) – Super agente
+- [Manus AI](https://www.manus.ai/) – Agente funcionalidades avançadas.  
+
 
 ---
 
