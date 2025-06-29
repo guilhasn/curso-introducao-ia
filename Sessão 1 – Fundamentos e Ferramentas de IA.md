@@ -13,6 +13,26 @@ Nesta sessão, os formandos irão:
 
 ---
 
+## Bem-vindo ao Universo da IA!
+
+Já imaginaste um mundo onde as máquinas pensam, aprendem e criam como nós? Bem-vindo à Inteligência Artificial (IA), uma das maiores revoluções tecnológicas da nossa era! Neste módulo, vamos explorar os fundamentos da IA, entender o que a torna tão poderosa e dar os primeiros passos para a usares no teu dia a dia.
+
+# O que é Inteligência Artificial?
+
+A IA é como um superpoder que permite às máquinas realizar tarefas que normalmente associamos à inteligência humana: reconhecer imagens, responder a perguntas, ou até compor música. É um campo da ciência da computação que está a transformar o mundo — desde assistentes virtuais no teu telemóvel até carros que conduzem sozinhos.
+
+Curiosidade: Sabias que o termo "Inteligência Artificial" nasceu em 1956, numa conferência nos EUA? Desde então, a IA evoluiu de ficção científica para algo que usamos todos os dias!
+
+# Tipos de IA
+
+- IA Estreita (Narrow AI): É a IA que já conheces — especializada numa tarefa específica. Exemplos: o ChatGPT que escreve textos ou o teu GPS que encontra o caminho mais rápido.
+- IA Geral (General AI): Uma IA que pensa como um humano em qualquer situação. Ainda é um sonho do futuro, mas os cientistas estão a trabalhar nisso!
+
+# O que é Machine Learning e Deep Learning?
+
+- Machine Learning (ML): Imagina ensinar um cão a reconhecer comandos, mas em vez de um cão, é um computador. O ML permite que máquinas aprendam com dados, como identificar spam no teu e-mail.
+- Deep Learning (DL): Uma versão mais avançada do ML, inspirada no cérebro humano, com redes neurais artificiais. É o que dá vida a coisas como reconhecimento facial ou geração de imagens.
+
 ## 📚 Conteúdos Teóricos
 
 1. <a href="https://app.datacamp.com/learn/courses/understanding-artificial-intelligence" target="_blank">📘 Understanding Artificial Intelligence – Curso na DataCamp</a>
