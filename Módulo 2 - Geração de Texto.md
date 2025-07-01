@@ -1,4 +1,4 @@
-# 📘 Módulo: Geração de Texto com Inteligência Artificial
+# 📘 Módulo 2: Geração de Texto com Inteligência Artificial
 
 ## 1. Objetivos do Módulo
 - Compreender os fundamentos e aplicações da IA generativa.
