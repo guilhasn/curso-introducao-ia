@@ -1,6 +1,6 @@
-# 🖼️ Como Criámos Imagens Alinhadas com a Nossa Marca
+# 🖼️ Geração de imagens
 
-Precisávamos de visuais apelativos para divulgar o lançamento do nosso novo curso de bem-estar*. Queríamos que cada imagem refletisse a vibração criativa e calma da nossa marca — algo que os gráficos de stock raramente conseguem transmitir.
+Vamos imaginar que precisávamos de visuais apelativos para divulgar o lançamento do nosso novo curso de bem-estar*. Queríamos que cada imagem refletisse a vibração criativa e calma da nossa marca — algo que os gráficos de stock raramente conseguem transmitir.
 
 Ao especificarmos tanto o “**meio**” (pintura em aguarela) como o “**estilo**” (minimalista, tranquilo) no ChatGPT, gerámos um conjunto de imagens consistentes e com aspeto profissional para a nossa campanha — em poucos minutos.
 
@@ -49,5 +49,50 @@ Depois, aplicámos o estilo: **“minimalista, tranquilo”**.
 Este estilo eliminou elementos visuais supérfluos, destacando cores suaves e linhas simples — em perfeita sintonia com o tom do nosso novo curso.
 
 ---
+
+
+### 4 – Combinações para Exploração
+
+Por curiosidade e para testar outros visuais, trocámos por **“pintura a óleo”** para uma vibração mais clássica e sofisticada, e por **“ilustração digital”** para gráficos modernos e nítidos.
+
+🖌️ *Cada combinação produziu um visual completamente diferente.*
+
+---
+
+### 5 – Pede Mais Opções ao ChatGPT
+
+Sempre que ficávamos sem ideias, pedíamos simplesmente:  
+**“Lista 20 tipos diferentes de meios nos quais uma imagem pode ser criada.”**
+
+O ChatGPT devolveu um verdadeiro menu de opções — arte em barro, esboço a lápis, colagem e muito mais — facilitando a experimentação criativa.
+
+---
+
+### 6 – Itera Até Estar Certo
+
+Depois combinámos diferentes meios e estilos, ajustando os prompts e visualizando os resultados até termos um conjunto completo de imagens coesas e com aspeto profissional.
+
+⏱️ *Todo este processo demorou menos de 30 minutos — sem necessidade de designer.*
+
+---
+
+## 🚀 Outras Aplicações
+
+Controlar o **meio** e o **estilo** nos prompts de imagem do ChatGPT não é apenas útil para coaches ou criadores de cursos.  
+É uma técnica versátil que se adapta a quase qualquer fluxo de trabalho empresarial ou criativo:
+
+- **E-commerce**: Mostra mockups de produtos em barro, esboço a lápis ou estilo fotorrealista para diferentes canais de marketing.
+
+- **Consultoria**: Gera infográficos ou gráficos estilizados com estéticas vintage, futuristas ou minimalistas para apresentações.
+
+- **Criadores de Conteúdo**: Cria capas de podcast, miniaturas de YouTube ou ilustrações de blog com identidade visual consistente.
+
+- **Organizadores de Eventos**: Desenha convites e publicações sociais em estilos lúdicos, elegantes ou retro, adaptados ao tom de cada evento.
+
+- **Agências**: Protótipa rapidamente direções visuais para propostas a clientes, combinando e alternando estilos e meios.
+
+---
+
+
 
 
