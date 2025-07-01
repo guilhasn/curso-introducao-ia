@@ -53,6 +53,8 @@ Curiosidade: Sabias que o termo "Inteligência Artificial" nasceu em 1956, numa 
 
 Sugere-se que os formandos explorem todos os conteúdos listados acima, focando-se especialmente na relação entre os conceitos de IA e as suas aplicações práticas.
 
+https://course.elementsofai.com/pt/
+
 ---
 
 ## 📝 Exercício Prático
