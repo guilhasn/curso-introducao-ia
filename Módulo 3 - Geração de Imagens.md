@@ -4,7 +4,7 @@ Vamos imaginar que precisávamos de visuais apelativos para divulgar o lançamen
 
 Ao especificarmos tanto o “**meio**” (pintura em aguarela) como o “**estilo**” (minimalista, tranquilo) no ChatGPT, gerámos um conjunto de imagens consistentes e com aspeto profissional para a nossa campanha — em poucos minutos.
 
-> *na verdade, não temos um curso de bem-estar — apenas cursos desenhados para ajudar empreendedores a desenvolver competências valiosas em IA*
+
 
 ---
 
