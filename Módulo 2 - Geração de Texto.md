@@ -129,22 +129,6 @@ Este módulo fornece aos formandos:
 
 
 
-## ✍️ Geração de Texto com Inteligência Artificial
-
-A Futurepedia apresenta 301 ferramentas dedicadas à geração de texto com IA, repartidas em categorias como **Prompt Generators**, **Writing Generators**, **Paraphrasing**, **Storyteller**, **Copywriting** e **Summarizer** :contentReference[oaicite:1]{index=1}.
-
----
-
-### 🛠 Ferramentas em Destaque (2025)
-
-- **ChatGPT**: sistema versátil para redação, brainstorming, resumo e mais :contentReference[oaicite:2]{index=2}.
-- **Jasper**: ideal para marketing, SEO, copywriting, com criação de conteúdos de longo formato :contentReference[oaicite:3]{index=3}.
-- **Writesonic**: produção de artigos SEO-friendly e posts para redes sociais :contentReference[oaicite:4]{index=4}.
-- **Quillbot**: reformula textos com clareza, excelente para melhorar redação e evitar plágio :contentReference[oaicite:5]{index=5}.
-- **NovelAI / Sudowrite**: focados em narração criativa e escrita narrativa literária :contentReference[oaicite:6]{index=6}.
-
----
-
 ### 🎯 Casos de Uso
 
 1. **Writing & Conteúdo**  
@@ -193,15 +177,6 @@ Escreve um post de blog (500‑600 palavras) sobre transformação digital no se
 
 
 
-## 🧠 Introdução
-
-A geração de texto é uma das funcionalidades mais úteis da IA generativa. Permite automatizar, acelerar ou melhorar a produção de conteúdos escritos — desde e-mails até resumos ou artigos completos.
-
-Nesta ficha vais usar duas ferramentas:
-- [ChatGPT (OpenAI)](https://chat.openai.com/)
-- [Gemini (Google)](https://gemini.google.com/?hl=pt-PT)
-
----
 
 ## 🧪 Exercício 1 – Escrever um E-mail com o ChatGPT
 
