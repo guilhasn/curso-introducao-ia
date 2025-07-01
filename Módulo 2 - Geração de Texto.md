@@ -1,3 +1,133 @@
+# 📘 Módulo: Geração de Texto com Inteligência Artificial
+
+## 1. Objetivos do Módulo
+- Compreender os fundamentos e aplicações da IA generativa.
+- Aprender boas práticas avançadas de **prompt engineering**.
+- Caracterizar e utilizar ferramentas líderes (ChatGPT, Gemini, Claude, Jasper, Writesonic, etc.).
+- Implementar padrões de segurança, ética e governação (ISO 27001, DAMA‑DMBOK, OWASP).
+
+---
+
+## 2. Fundamentos da IA Generativa
+
+1. **Definição**: Modelos LLM (como GPT‑4, Claude, Gemini) geram texto prevendo a próxima palavra com base em grandes volumes de dados.  
+2. **Aplicações típicas**: escrita de e‑mails, artigos, posts, relatórios, propostas, resumos automáticos, apoio à decisão.  
+3. **Limitações**: alucinações (respostas erradas com aparente confiança), enviesamentos nos dados, dependência do prompt, riscos de segurança (prompt injection).
+
+---
+
+## 3. Engenharia de Prompts (Prompt Engineering)
+
+### 3.1 Boas Práticas Fundamentais
+- **Clareza e especificidade**: indicar o papel do modelo, contexto, objetivo, tom e limites.  
+- **Role prompting**: “Assume que és um...”. Define uma persona clara.  
+- **Chain-of-Thought (CoT)**: pedir ao modelo que explique o raciocínio passo a passo.  
+- **Few-shot prompting**: incluir exemplos no prompt para orientar a estrutura ou estilo da resposta.  
+- **Iteração**: ajustar os prompts com base nos resultados obtidos.
+
+### 3.2 Técnicas Avançadas
+- **Zero-shot vs Few-shot**: usar nenhum ou poucos exemplos para orientar a geração.  
+- **Self-consistency**: gerar múltiplas versões e escolher a mais robusta.  
+- **Meta-prompting**: pedir à IA que ajude a melhorar o próprio prompt.  
+- **RAG (Retrieval-Augmented Generation)**: aceder a bases de dados externas para fundamentar melhor as respostas.
+
+---
+
+## 4. Fluxo de Trabalho Recomendado
+
+1. Definir o objetivo (tipo de texto, público-alvo, contexto).  
+2. Selecionar a ferramenta mais adequada (ChatGPT, Claude, Gemini, etc.).  
+3. Construir o prompt com as melhores práticas de clareza, estrutura e persona.  
+4. Executar o prompt e analisar a resposta gerada.  
+5. Iterar, reformular ou afinar conforme necessário.  
+6. Validar com revisão humana: verificar factualidade, tom e formato.  
+7. Documentar os prompts eficazes para uso repetido e institucionalização.
+
+---
+
+## 5. Ferramentas Recomendadas (2025)
+
+- **ChatGPT (OpenAI)**: altamente versátil para criação de conteúdo, resumos, brainstormings, emails, etc.  
+- **Gemini (Google)**: forte integração com Gmail, Docs e outras apps Google.  
+- **Claude (Anthropic)**: excelente para raciocínio complexo, documentos longos e revisões.  
+- **Jasper**: orientado para marketing, geração de conteúdos SEO e copywriting.  
+- **Writesonic e Copy.ai**: especializados em textos comerciais, anúncios e landing pages.
+
+---
+
+## 6. Exercícios Práticos
+
+### 6.1 E‑mail Institucional
+```text
+Tu és gestor municipal. Gera um e‑mail a um cidadão para agradecer feedback após intervenção.
+Tom: formal, até 150 palavras. Incluir convite para reunião.
+```
+
+### 6.2 Resumo Estratégico
+```text
+Resume o relatório sobre inovação digital em 5 bullet points: desafios, soluções e impacto municipal.
+```
+
+### 6.3 Chain-of-Thought
+```text
+Tens três projetos com dados A, B, C. Avalia e prioriza conforme impacto, custo, alinhamento. Explica passo a passo.
+```
+
+### 6.4 Integração com RAG
+```text
+Implementa um sistema baseado em RAG que aceda a documentos municipais e permita responder a perguntas sobre processos internos.
+```
+
+---
+
+## 7. Segurança, Ética e Governação
+
+- **Segurança da informação**: não inserir dados pessoais ou confidenciais nos prompts.  
+- **Proteção contra prompt injection**: sanitização de entrada e utilização de guardrails.  
+- **Governança**: criar políticas internas sobre uso de IA (baseadas na ISO 27001, DAMA-DMBOK).  
+- **Mitigação de viés**: revisão humana, uso de fontes diversas e teste de neutralidade nos outputs.  
+- **Transparência**: comunicar ao público sempre que conteúdos forem assistidos ou gerados por IA.
+
+---
+
+## 8. Recursos Recomendados
+
+- [Guia de Prompt Engineering da OpenAI](https://platform.openai.com/docs/guides/gpt-best-practices)  
+- [Lakera AI – Guia Prático](https://www.lakera.ai/blog/prompt-engineering-guide)  
+- [Tom’s Guide – Dicas Profissionais](https://www.tomsguide.com/ai/i-test-chatgpt-for-a-living-7-secrets-to-instantly-up-your-prompt-game)  
+- [ArXiv – Catálogo de Técnicas](https://arxiv.org/abs/2302.11382)  
+- [Google Cloud – Aplicações RAG](https://cloud.google.com/ai/docs/rag-overview)
+
+---
+
+## 9. Quadro-Resumo
+
+| Etapa               | Ação Recomendável                                                           |
+|---------------------|-----------------------------------------------------------------------------|
+| Objetivo            | Definir claramente o tipo de conteúdo e o público-alvo                     |
+| Ferramenta          | Selecionar a IA mais adequada ao tipo de tarefa                            |
+| Prompt              | Usar persona, contexto, formato, tom e limite de palavras                  |
+| Técnicas            | Aplicar Role Prompting, CoT, Few-shot, Meta-prompting                      |
+| Validação           | Rever sempre os outputs com espírito crítico e técnico                     |
+| Documentação        | Guardar e refinar prompts eficazes como boas práticas internas             |
+
+---
+
+## 10. Conclusão
+
+Este módulo fornece aos formandos:
+
+- Competência técnica na utilização de ferramentas de geração de texto com IA.  
+- Capacidade de desenhar prompts eficazes, éticos e ajustados ao contexto.  
+- Conhecimento prático das ferramentas mais relevantes para o setor público e empresarial.  
+- Instrumentos para a integração responsável e segura da IA na produção de conteúdos e na administração digital.
+
+
+
+
+
+
+
 
 ## ✍️ Geração de Texto com Inteligência Artificial
 
