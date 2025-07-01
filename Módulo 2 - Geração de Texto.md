@@ -60,10 +60,3 @@ Nesta ficha vais usar duas ferramentas:
 
 ---
 
-## ✅ Conclusão
-
-Hoje exploraste a geração de texto com IA. Aprendeste a:
-
-- Criar e-mails automáticos com ChatGPT
-- Realizar pequenas tarefas com linguagem natural
-- Usar Gemini para fazer resumos
