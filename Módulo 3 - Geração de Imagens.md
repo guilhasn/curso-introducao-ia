@@ -1,4 +1,4 @@
-# 🧠 Introdução Teórica: Geração de Imagens com Inteligência Artificial
+# 🧠 Módulo 3: Geração de Imagens com Inteligência Artificial
 
 A **geração de imagens com Inteligência Artificial (IA)** é uma das áreas mais impactantes da IA generativa, permitindo criar ilustrações, pinturas, fotografias sintéticas ou arte conceptual a partir de simples descrições em linguagem natural — chamadas *prompts*.
 
