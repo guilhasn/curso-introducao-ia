@@ -1,4 +1,100 @@
-# 🖼️ Geração de imagens
+## 
+# Exercícios de Geração de Imagens com IA
+
+Aqui estão exemplos de prompts detalhados para criar imagens com inteligência artificial, seguindo o formato: **Descrição da cena + Meio + Estilo**.
+
+---
+
+## 1. Exemplo Base
+
+**Cena:** Uma mulher meditando em uma colina ao nascer do sol  
+**Meio:** Pintura em aquarela  
+**Estilo:** Minimalista e tranquilo
+
+---
+
+## 2. Exercício 1
+
+**Cena:** Um grupo de estudantes trabalhando em computadores em um laboratório moderno  
+**Meio:** Ilustração digital  
+**Estilo:** Futurista, cores vibrantes
+
+---
+
+## 3. Exercício 2
+
+**Cena:** Um robô ensinando crianças em uma sala de aula colorida  
+**Meio:** Arte em argila  
+**Estilo:** Lúdico e alegre
+
+---
+
+## 4. Exercício 3
+
+**Cena:** Uma cidade à noite, com luzes brilhantes e carros voadores  
+**Meio:** Pintura a óleo  
+**Estilo:** Cyberpunk, atmosfera dramática
+
+---
+
+## 5. Exercício 4
+
+**Cena:** Um homem correndo em um parque ao entardecer  
+**Meio:** Fotografia  
+**Estilo:** Natural, cores quentes e suaves
+
+---
+
+## 6. Exercício 5
+
+**Cena:** Um gato sentado em uma janela, observando a chuva  
+**Meio:** Pintura em aquarela  
+**Estilo:** Minimalista, atmosfera relaxante
+
+---
+
+## 7. Exercício 6
+
+**Cena:** Uma equipe de futebol celebrando uma vitória  
+**Meio:** Ilustração digital  
+**Estilo:** Dinâmico, linhas expressivas
+
+---
+
+## 8. Exercício 7
+
+**Cena:** Uma oficina de tecnologia com ferramentas e componentes eletrónicos  
+**Meio:** Desenho em vetor  
+**Estilo:** Moderno, cores primárias
+
+---
+
+## 9. Exercício 8
+
+**Cena:** Um professor explicando inteligência artificial para alunos  
+**Meio:** Arte em papel recortado  
+**Estilo:** Criativo, composição limpa
+
+---
+
+## Como usar estes exercícios
+
+1. **Descreva a cena:** Seja claro e objetivo sobre o que deseja mostrar.
+2. **Escolha o meio:** Defina a técnica artística (ex: aquarela, fotografia, ilustração digital).
+3. **Defina o estilo:** Escolha o clima visual (ex: minimalista, futurista, lúdico).
+4. **Teste diferentes combinações** para encontrar o melhor resultado para o seu projeto.
+
+---
+
+> _Estes prompts podem ser usados em ferramentas de geração de imagens como ChatGPT, DALL-E, Midjourney, entre outras._
+
+
+
+
+__________________________________________________________________
+
+
+# 🖼️ Geração de imagens (dicas úteis)
 
 Vamos imaginar que precisávamos de visuais apelativos para divulgar o lançamento do nosso novo curso de bem-estar*. Queríamos que cada imagem refletisse a vibração criativa e calma da nossa marca — algo que os gráficos de stock raramente conseguem transmitir.
 
