@@ -1,4 +1,4 @@
-# 📘 Sessão 01 – Apresentação e Fundamentos da Inteligência Artificial
+# 📘 Módulo 01 – Apresentação e Fundamentos da Inteligência Artificial
 
 ## 🎯 Objetivo da Sessão
 
