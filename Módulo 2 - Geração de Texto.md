@@ -73,7 +73,6 @@ Um prompt eficaz normalmente segue este esquema simples:
 3. **Detalhes específicos** → Informações que a IA deve considerar.
 4. **Formato esperado** → Como você gostaria de receber a resposta (texto, lista, tabela, passo a passo).
 
-### E tem mais:
 
 Uma **dica oficial do presidente da [OpenAI](https://openai.com/)**, Greg Brockman, publicada na [Exame](https://exame.com/inteligencia-artificial/prompt-perfeito-presidente-da-openai-ensina-como-extrair-o-maximo-do-chatgpt/), é adicionar no seu prompt o pedido:
 
@@ -116,6 +115,16 @@ Crie 5 ideias de posts para Instagram sobre cuidados com a pele. A marca é foca
 
 **Resultado:**  
 Você receberá respostas muito mais bem pensadas, organizadas e úteis!
+
+---
+
+
+
+
+
+
+
+
 
 ---
 
