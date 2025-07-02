@@ -31,6 +31,114 @@
 - **Meta-prompting**: pedir à IA que ajude a melhorar o próprio prompt.  
 - **RAG (Retrieval-Augmented Generation)**: aceder a bases de dados externas para fundamentar melhor as respostas.
 
+
+
+
+# Como Criar um Bom Prompt para o ChatGPT: Guia Simples + Dica Oficial da OpenAI
+
+*Fonte: [André Rebello](https://andrerebello.com.br/2025/06/04/como-criar-um-bom-prompt-para-o-chatgpt-guia-simples-dica-oficial-da-openai/)*
+
+A inteligência artificial está cada vez mais presente no nosso dia a dia, seja para agilizar o trabalho, criar conteúdos ou solucionar dúvidas. E uma das ferramentas mais famosas atualmente é o **ChatGPT**.
+
+Se você quer aproveitar melhor essa tecnologia, precisa dominar um conceito básico, mas muito poderoso: **prompt**.
+
+## O que é um Prompt?
+
+Um **prompt** é **a pergunta ou comando que você escreve para conversar com o ChatGPT**.  
+Pense assim: o prompt é como se fosse a "instrução" que você dá para a inteligência artificial trabalhar.
+
+**Quanto mais claro e bem estruturado for o seu prompt, melhor será a resposta que você receberá.**
+
+---
+
+## O que é o ChatGPT (em poucas palavras)?
+
+O ChatGPT é uma ferramenta criada pela OpenAI que simula conversas humanas. Ele entende o que você escreve e gera respostas inteligentes para tarefas como:
+
+- Criar textos
+- Responder dúvidas
+- Dar sugestões
+- Resolver problemas de diversas áreas
+
+Mas tudo começa com um bom prompt!
+
+---
+
+## A Estrutura de um Bom Prompt
+
+Um prompt eficaz normalmente segue este esquema simples:
+
+1. **Objetivo claro** → O que você quer que o ChatGPT faça?
+2. **Contexto** → Para quem é? Qual a situação?
+3. **Detalhes específicos** → Informações que a IA deve considerar.
+4. **Formato esperado** → Como você gostaria de receber a resposta (texto, lista, tabela, passo a passo).
+
+### E tem mais:
+
+Uma **dica oficial do presidente da [OpenAI](https://openai.com/)**, Greg Brockman, publicada na [Exame](https://exame.com/inteligencia-artificial/prompt-perfeito-presidente-da-openai-ensina-como-extrair-o-maximo-do-chatgpt/), é adicionar no seu prompt o pedido:
+
+> **"Pense passo a passo."**
+
+Essa frase mágica faz o ChatGPT **raciocinar com mais calma** e gerar respostas **muito mais organizadas e profundas**.
+
+---
+
+## Exemplo Prático: Criando um Prompt Passo a Passo
+
+Imagine que você trabalha com marketing e quer gerar **ideias de posts para Instagram sobre cuidados com a pele**.
+
+### 🔹 Passo 1 – Defina o objetivo:
+
+> Quero ideias de posts para Instagram sobre cuidados com a pele.
+
+### 🔹 Passo 2 – Dê o contexto:
+
+> Trabalho com uma marca de cosméticos para mulheres de 25 a 45 anos, focada em saúde e bem-estar.
+
+### 🔹 Passo 3 – Adicione detalhes:
+
+> Quero posts com linguagem leve, dicas práticas e sugestões de legenda.
+
+### 🔹 Passo 4 – Formato desejado:
+
+> Preciso de 5 ideias, cada uma com título, texto e sugestão de imagem.
+
+### 🔹 Passo 5 – Aplique a dica "pense passo a passo":
+
+> No final do prompt, adicione: "Pense passo a passo".
+
+---
+
+## ✅ Prompt final para enviar ao ChatGPT:
+
+Crie 5 ideias de posts para Instagram sobre cuidados com a pele. A marca é focada em mulheres entre 25 e 45 anos, com interesse em saúde e bem-estar. O tom deve ser leve, prático e incluir dicas aplicáveis ao dia a dia. Para cada ideia, forneça título, texto e sugestão de imagem. Pense passo a passo.
+
+
+**Resultado:**  
+Você receberá respostas muito mais bem pensadas, organizadas e úteis!
+
+---
+
+## Dicas Extras para Criar Prompts Ainda Melhores
+
+- **Seja claro:** Especifique o que você quer.
+- **Dê exemplos:** Se quiser algo em um estilo específico, diga.
+- **Peça revisões:** Se o primeiro resultado não ficou perfeito, refine o prompt e tente novamente.
+- **Use "Pense passo a passo":** Isso incentiva o ChatGPT a estruturar melhor o raciocínio.
+
+---
+
+## Conclusão
+
+Criar um bom prompt é como fazer o pedido certo a um chefe de cozinha: quanto mais claro você for sobre o que deseja, melhor será o prato servido!
+
+Aproveite a dica dos especialistas: peça para o ChatGPT **"pensar passo a passo"** e veja suas respostas subirem de nível!
+
+
+
+
+
+
 ---
 
 ## 4. Fluxo de Trabalho Recomendado
