@@ -28,3 +28,36 @@ Flick: Automatização de publicações em redes sociais
 
 ChatBOTs
 --https://www.chatbase.co/
+
+
+
+## 🤖 **Módulo 4: Agentes de IA e Automação**
+
+### 4.1 Criação de Chatbots Personalizados
+
+**Caso de Estudo: Chatbase para Resolver Problemas 3x Mais Rápido**
+
+*Fonte: [These Custom Chatbots Will Resolve Issues 3x Faster](https://newsletter.futurepedia.io/p/these-custom-chatbots-will-resolve-issues-3x-faster-06-24-2025)*
+
+**Implementação Completa:**
+1. **Criar conta Chatbase**
+2. **Iniciar novo AI Agent**
+3. **Adicionar base de conhecimento** (catálogos, URLs)
+4. **Personalizar chatbot** (GPT-4o-mini, prompts de marca)
+5. **Testar no playground**
+6. **Publicar e embeddar** (iframe ou script)
+7. **Manter actualizado** com nova informação
+
+**Porquê o Chatbase Funciona Tão Bem:**
+- ✅ **Constrói Chatbots Personalizados**: Criação com dados específicos do negócio
+- ✅ **Embebida Facilmente**: Opções iframe e script para várias plataformas
+- ✅ **Personaliza Interação**: Ajusta personalidade e respostas à voz da marca
+- ✅ **Melhora Eficiência**: Integração rápida com competências técnicas mínimas
+- ✅ **Suporta Crescimento**: Escala com necessidades do negócio
+
+**Casos de Uso:**
+- **Atendimento ao cliente 24/7**
+- **Recomendações de produtos**
+- **Geração de leads**
+- **Inquéritos interactivos**
+- **Guias educacionais**
