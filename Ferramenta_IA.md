@@ -75,4 +75,29 @@ Queres sugerir uma nova ferramenta? Faz um *pull request* ou abre uma *issue*!
 
 ---
 
-© 2025 – Lista de uso educativo no curso **Introdução à Inteligência Artificial**
+
+- [Chatbase](https://www.chatbase.co/) - Para criação de chatbots
+- [Kling AI](https://www.futurepedia.io/tool/kling) - Para criação de vídeos
+- [Lovable](https://www.futurepedia.io/tool/lovable) - Para desenvolvimento web
+- [Futurepedia Tools](https://www.futurepedia.io/) - Directório de ferramentas IA
+
+### Ferramentas Emergentes Destacadas:
+
+**Criatividade:**
+- [Hatch](https://www.futurepedia.io/tool/hatch) - Colaboração em canvas infinito
+- [Krea](https://www.futurepedia.io/tool/krea) - Imagens fotorealistic e edição vídeo
+
+**Automação:**
+- [Tila](https://www.futurepedia.io/tool/tila) - Workflows com multi-agent IA
+- [Superdash](https://www.futurepedia.io/tool/superdash) - Interações cliente automatizadas
+- [Pulze](https://www.futurepedia.io/tool/pulze) - Workflows IA sem código
+
+**Colaboração:**
+- [Liveblocks](https://www.futurepedia.io/tool/liveblocks) - Ferramentas colaboração tempo real
+
+**Análise:**
+- [Flash](https://www.futurepedia.io/tool/flash) - Shopping inteligente e insights
+- [TextLayer](https://www.futurepedia.io/tool/textlayer) - Integração empresarial IA
+- [Transkriptor](https://www.futurepedia.io/tool/transkriptor) - Transcrição IA precisa
+
+---
