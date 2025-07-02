@@ -24,3 +24,7 @@ Ferramentas Mencionadas:
 Zapier: Conectar aplicações e automatizar tarefas
 N8N: Plataformas com suporte a agentes inteligentes
 Flick: Automatização de publicações em redes sociais
+
+
+ChatBOTs
+--https://www.chatbase.co/
