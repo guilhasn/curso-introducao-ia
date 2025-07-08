@@ -34,6 +34,59 @@ Bem-vindo à lista curada de ferramentas de IA úteis para potenciar a criativid
 - [Kittl makes it simple to create professional designs](https://www.kittl.com/) - Criar logotipos
 ---
 
+# 🎨 Melhores Ferramentas Grátis de IA para Geração de Imagens (2025)
+
+Lista atualizada de ferramentas gratuitas para criação, edição e design de imagens usando inteligência artificial.
+
+---
+
+## 🌟 **Geradores de Imagens a Partir de Texto (Text-to-Image)**
+
+| Ferramenta | Link | Destaque |
+|-----------|------|----------|
+| Gemini (Google) | [https://gemini.google.com/](https://gemini.google.com/) | Imagens realistas (limite de 10/dia) |
+| Microsoft Designer (Copilot) | [https://designer.microsoft.com/](https://designer.microsoft.com/) | Ilimitado, 4 imagens por prompt |
+| ChatGPT (DALL·E 3) | [https://chat.openai.com/](https://chat.openai.com/) | 3 gerações grátis/dia via ChatGPT |
+| Stable Diffusion (DreamStudio) | [https://dreamstudio.ai/](https://dreamstudio.ai/) | Até 10 imagens/dia, alto controlo |
+| Craiyon | [https://www.craiyon.com/](https://www.craiyon.com/) | Ilimitado (com marca de água) |
+| NightCafe | [https://nightcafe.studio/](https://nightcafe.studio/) | Modelos variados + créditos diários |
+| Ideogram | [https://ideogram.ai/](https://ideogram.ai/) | Melhor para **texto em imagens** (10 créditos/semana) |
+| SeaArt AI | [https://www.seaart.ai/](https://www.seaart.ai/) | Arte digital (versão gratuita limitada) |
+
+---
+
+## ✨ **Edição e Melhoria de Imagens**
+
+| Ferramenta | Link | Função Principal |
+|-----------|------|------------------|
+| Cleanup.pictures | [https://cleanup.pictures/](https://cleanup.pictures/) | Remove objetos indesejados |
+| Photoroom | [https://www.photoroom.com/](https://www.photoroom.com/) | Remove fundo + edição de produtos |
+| Watermark Remover | [https://www.watermarkremover.io/](https://www.watermarkremover.io/) | Remove marcas de água |
+
+---
+
+## 🖌️ **Design & Logótipos**
+
+| Ferramenta | Link | Destaque |
+|-----------|------|----------|
+| Canva (Magic Media) | [https://www.canva.com/](https://www.canva.com/) | Gera e edita designs facilmente |
+| Kittl | [https://www.kittl.com/](https://www.kittl.com/) | Focado em logótipos (versão gratuita limitada) |
+| Flair AI | [https://flair.ai/](https://flair.ai/) | Fotos de produto com IA (versão gratuita restrita) |
+
+---
+
+## 🔥 **Recomendações Rápidas**
+
+- **🖼️ Qualidade realista**: [Gemini](https://gemini.google.com/) ou [Microsoft Designer](https://designer.microsoft.com/)
+- **🎨 Arte criativa**: [Stable Diffusion](https://dreamstudio.ai/) ou [NightCafe](https://nightcafe.studio/)
+- **✏️ Texto em imagens**: [Ideogram](https://ideogram.ai/)
+- **⚡ Edição rápida**: [Cleanup.pictures](https://cleanup.pictures/) ou [Photoroom](https://www.photoroom.com/)
+
+> 💡 Todas as ferramentas possuem versões gratuitas, mas algumas exigem registo.  
+> 📌 **Dica**: Teste várias para encontrar a que melhor se adapta ao seu projeto!
+
+
+---
 ## 🎥 Vídeo e Voz
 
 - [Fliki AI](https://fliki.ai/) – Transforma texto em vídeo.  
