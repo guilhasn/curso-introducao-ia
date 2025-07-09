@@ -134,9 +134,9 @@ A IA generativa de vídeo utiliza modelos de deep learning para criar, transform
 #### Exemplos de Prompt para SORA
 
 - "Um carro desportivo vermelho a atravessar uma estrada costeira, ondas a rebentar nas rochas, luz dourada do final da tarde."
-- "A group of children flying kites in a sunny park, wide angle, joyful mood, Pixar style."
-- "A chef cooking sushi in a modern kitchen, steam rising, colorful ingredients, detailed close-up, Japanese style."
-- "A spaceship flying through an asteroid belt, dramatic lighting, 10 seconds."
+- "Um grupo de crianças a empinar papagaios num parque ensolarado, plano aberto, ambiente alegre, estilo Pixar."
+- "Um chef a preparar sushi numa cozinha moderna, vapor a subir, ingredientes coloridos, plano aproximado detalhado, estilo japonês."
+- "Uma nave espacial a voar através de um campo de asteroides, iluminação dramática, 10 segundos."
 
 ### Exercício 3 — SORA
 > Crie um vídeo com SORA sobre um tema livre, aplicando pelo menos 2 técnicas de prompting aprendidas antes (ex: descrição de movimento + referência de estilo).  
@@ -170,12 +170,12 @@ A IA generativa de vídeo utiliza modelos de deep learning para criar, transform
 ### 5.3 RunwayML
 
 - Acesse: [https://runwayml.com/](https://runwayml.com/)
-- Experimente o modo "Gen-2" para texto-para-vídeo (requer registro)
+- Experimente o modo "Gen-2" para texto-para-vídeo (requer registo)
 
 #### Exemplo de Prompt para RunwayML
 
 - "Uma bailarina a dançar num palco escuro, foco de luz, partículas douradas a rodopiar no ar, câmara lenta, atmosfera mágica."
-- "A time-lapse of clouds forming into the shape of a giant whale in the sky, sunrise, poetic mood."
+- "Um time-lapse de nuvens a formar a silhueta de uma baleia gigante no céu, ao nascer do sol, ambiente poético."
 
 ### Exercício 4 — Ferramentas Alternativas
 > Escolha UMA ferramenta acima.  
@@ -235,7 +235,7 @@ A IA generativa de vídeo utiliza modelos de deep learning para criar, transform
 ---
 
 ## Recursos Extras
-
+- [Create on-brand visuals with image generation](https://www.youtube.com/watch?v=GAf0KHM4fnk&t=95s&ab_channel=OpenAI)
 - [Lista de ferramentas gratuitas e trials](#)
 - [Templates de Prompt para Vídeo IA](#)
 - [Comunidade: Reddit r/AIArt, Discords oficiais]
