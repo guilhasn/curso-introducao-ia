@@ -196,11 +196,11 @@ A IA generativa de vídeo utiliza modelos de deep learning para criar, transform
 - Link: >https://huggingface.co/spaces/ByteDance/AnimateDiff-Lightning
 - Descrição: Modelo ultrarrápido que gera vídeos 10x mais rápido que o AnimateDiff original
 - Como usar:
- -- Acesse o link
- -- Insira o prompt de texto
- -- Escolha o modelo base (recomendado: epiCRealism)
- -- Selecione o número de passos (recomendado: 4 passos)
- -- Clique em "Generate"
+ - Acesse o link
+ - Insira o prompt de texto
+ - Escolha o modelo base (recomendado: epiCRealism)
+ - Selecione o número de passos (recomendado: 4 passos)
+ - Clique em "Generate"
 
 2. Prompts sugeridos:
 
@@ -211,24 +211,92 @@ A IA generativa de vídeo utiliza modelos de deep learning para criar, transform
 
 
 
+# Ferramentas de IA para Vídeo e Imagem
+
+## 1. Geradores de Vídeo
+
+### CogVideoX
+🔗 [Link](https://huggingface.co/spaces/THUDM/CogVideoX)  
+📝 **Descrição**: Modelo avançado de 2B/5B parâmetros para geração de vídeos de alta qualidade  
+
+#### Como usar:
+1. Acesse o space  
+2. Introduza o prompt detalhado  
+3. Configure os parâmetros (50 passos, 49 frames)  
+4. Aguarde a geração (pode demorar alguns minutos)  
+
+#### Prompts sugeridos:
+- "Um panda tocando guitarra numa floresta de bambu, luz solar filtrada, expressão concentrada"  
+- "Criança pintando num cavalete, concentração e criatividade, ambiente acolhedor"  
+
+---
+
+### LTX Video Fast
+🔗 [Link](https://huggingface.co/spaces/Lightricks/ltx-video-distilled)  
+📝 **Descrição**: Modelo ultra-rápido que gera vídeos de 5 segundos em menos de 1 minuto  
+
+#### Como usar:
+1. Escolha entre **Text-to-Video** ou **Image-to-Video**  
+2. Para Text-to-Video: insira o prompt  
+3. Para Image-to-Video: carregue uma imagem + prompt  
+4. Clique em "Generate"  
+
+#### Prompts sugeridos:
+- "Câmera a voar sobre montanhas nevadas, perspectiva de drone"  
+- "Fogo numa lareira, chamas dançando, ambiente íntimo"  
+
+---
+
+## 2. Ferramentas de Animação de Imagens
+
+### Stable Video Diffusion
+🔗 [Link](https://huggingface.co/spaces/stabilityai/stable-video-diffusion-img2vid)  
+📝 **Descrição**: Transforma imagens estáticas em vídeos animados (2-4 segundos)  
+
+#### Dicas:
+✅ Use imagens bem iluminadas  
+❌ Evite imagens muito complexas  
+
+---
+
+### Live Portrait
+🔗 [Link](https://huggingface.co/spaces/KwaiVGI/LivePortrait)  
+📝 **Descrição**: Anima retratos usando expressões faciais de referência  
+
+#### Aplicações:
+- Animar fotos antigas  
+- Criar avatares falantes  
+
+---
+
+## 3. Ferramentas de Edição de Vídeo
+
+### Video Background Removal
+🔗 [Link](https://huggingface.co/spaces/innova-ai/video-background-removal)  
+🛠️ Funcionalidade: Remove/substitui fundos automaticamente  
+
+### AI Video Editor
+🔗 [Link](https://huggingface.co/spaces?search=Video+editor)  
+✨ Edita vídeos com comandos de texto  
+
+---
+
+## 4. Ferramentas 3D
+
+### InstantMesh
+🔗 [Link](https://huggingface.co/spaces/TencentARC/InstantMesh)  
+🕒 Cria modelos 3D em 10 segundos  
+
+### 3D Photo Inpainting
+🔗 [Link](https://huggingface.co/spaces/Epoching/3D_Photo_Inpainting)  
+🖼️ Converte fotos 2D em experiências 3D  
+
+> Dica: Para melhores resultados, use imagens com fundos limpos.
 
 
 
-   [https://huggingface.co/spaces/stabilityai/stable-video-diffusion-img2vid](https://huggingface.co/spaces/stabilityai/stable-video-diffusion-img2vid)
-2. Upload de imagem + prompt
 
-#### Sugestão de Imagem
-- Foto de um animal, de um objeto ou de uma pessoa.
 
-#### Exemplos de Prompt para Animar Imagem
-
-- "O animal está a correr numa planície, sol a pôr-se, poeira no ar, animação realista."
-- "The person is waving hello, gentle smile, natural background, smooth animation."
-- "Uma folha a flutuar num lago calmo, reflexo das árvores, movimento suave, estilo zen."
-
-### Exercício 5 — Stable Video Diffusion
-> Faça upload de uma imagem e gere um vídeo animado com movimento natural.  
-> Salve e partilhe com o grupo.
 
 ---
 
