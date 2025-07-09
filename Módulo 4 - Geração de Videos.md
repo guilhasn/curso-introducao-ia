@@ -4,7 +4,7 @@
 
 
 
-Gemini VEO 3
+Gemini VEO 3 (versão free durante 30 dias)
 
 > https://one.google.com/about/google-ai-plans/
 
