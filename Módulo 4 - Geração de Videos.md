@@ -1,10 +1,10 @@
+### Módulo 4 - Criação de Vídeos com IA
 
 
 
 
 
-
-Gemini VEO 3.0
+Gemini VEO 3
 
 > https://one.google.com/about/google-ai-plans/
 
@@ -14,7 +14,7 @@ Gemini VEO 3.0
 - Uma bolacha de chocolate gigantesca está no centro de um estádio repleto de gente, rodeada por fãs entusiasmados. A iluminação é dramática, com imagens aéreas captadas por drone, confetti a cair e pessoas a segurar cartazes que dizem "KCC" e "Bolacha do Século". A câmara move-se lentamente em volta da bolacha, ao som de uma música cinematográfica empolgante. Narração: "A história está a ser escrita — a Kevin Cookie Company revela a maior bolacha de chocolate do mundo." 
 
 ----
-### 3.2 Criação de Vídeos com IA
+
 
 **Caso de Estudo: Kling AI - De Imagem Estática a Vídeo Envolvente**
 
