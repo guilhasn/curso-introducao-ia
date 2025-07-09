@@ -350,10 +350,10 @@ Ferramenta especializada em geração de vídeos com avatares realistas, ideal p
 - Elai.io – Foco Educacional
     Site: https://elai.io
 
-HeyGen – Qualidade Profissional
+- HeyGen – Qualidade Profissional
     Site: https://www.heygen.com
 
-Descript – Editor Poderoso
+- Descript – Editor Poderoso
     Site: https://www.descript.com
 
 - **D-ID** - Animação de fotos
