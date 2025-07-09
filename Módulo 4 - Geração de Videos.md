@@ -1,6 +1,15 @@
 
 
 
+Geminie VEO
+
+> https://one.google.com/about/google-ai-plans/
+
+**Testar este Prompt:**
+
+- Um plano cinematográfico em câmara lenta de bolachas de chocolate acabadas de sair do forno, numa cozinha acolhedora e iluminada pela luz do sol. Iluminação quente, foco suave, vapor a subir e música suave de fundo.
+
+
 ----
 ### 3.2 Criação de Vídeos com IA
 
