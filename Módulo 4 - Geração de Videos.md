@@ -101,7 +101,7 @@ A IA generativa de vídeo utiliza modelos de deep learning para criar, transform
 ### Demonstração
 
 1. Aceda a: [https://huggingface.co/spaces](https://huggingface.co/spaces)
-2. Pesquise por "text to video" ou use o modelo [Stable Video Diffusion - img2vid](https://huggingface.co/spaces/stabilityai/stable-video-diffusion-img2vid)
+2. Pesquise por "text to video" ou use o modelo [VEO3 Free](https://huggingface.co/spaces/ginigen/VEO3-Free)
 3. Experimente prompts curtos e longos.
 
 #### Exemplos de Prompt para Hugging Face
