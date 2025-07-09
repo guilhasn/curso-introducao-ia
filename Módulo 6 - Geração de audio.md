@@ -340,3 +340,56 @@ Jingle publicitário pop com piano, 30 segundos, alegre e contagiante, fácil de
 | **Velocidade** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | **Gratuito** | Parcial | Trial | Parcial | Parcial |
 | **Especialidade** | Música completa | Produção avançada | Efeitos sonoros | Música comercial |
+
+
+### 📋 Exercício Final - Hino da Campanha do João Silva
+
+**Cenário:** João Silva precisa de um hino oficial para a sua campanha à Junta de Freguesia de Vila Digital.
+
+**Tarefa:** Criar hino completo da campanha
+
+**Especificações:**
+- **Duração:** 2-3 minutos
+- **Estilo:** Folk pop português, inspirador
+- **Ferramentas:** ChatGPT + Suno/Mureka
+- **Público:** Munícipes de Vila Digital
+
+**Processo Simplificado:**
+
+#### **Fase 1: Criar Letra (15 min)**
+1. **Ir ao ChatGPT** e usar este prompt:
+Cria a letra de um hino de campanha para João Silva, candidato à Junta de Freguesia de Vila Digital. O hino deve ter:
+
+Estilo folk português
+Tom inspirador e próximo da comunidade
+Falar de modernização, qualidade de vida e desenvolvimento
+Estrutura: verso, refrão, verso, refrão, bridge, refrão final
+Linguagem simples e memorável
+
+#### **Fase 2: Criar Música (30 min)**
+1. **Escolher** Suno ou Mureka
+2. **Usar prompt** no Suno:
+Folk pop português, guitarra acústica e piano, voz masculina calorosa, tom esperançoso e inspirador, melodia memorável para hino de campanha política local, 2-3 minutos
+
+3. **Colar a letra** obtida do ChatGPT
+4. **Gerar** o hino
+
+#### **Fase 3: Refinamento (15 min)**
+1. **Ouvir** resultado
+2. **Fazer ajustes** se necessário
+3. **Gerar variações** se não ficou satisfeito
+4. **Selecionar** melhor versão
+
+**Entregáveis:**
+- Hino completo (MP3)
+- Letra utilizada
+- Screenshot do processo
+
+**Apresentação:**
+- **Duração:** 3 minutos
+- **Reproduzir** o hino criado
+- **Explicar** brevemente as escolhas feitas
+
+**Tempo Total:** 60 minutos
+
+**Objetivo:** Demonstrar como usar IA para criar identidade sonora de campanha de forma rápida e eficaz! 🎵🗳️
