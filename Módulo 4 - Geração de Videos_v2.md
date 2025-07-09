@@ -320,39 +320,24 @@ Ferramenta especializada em geração de vídeos com avatares realistas, ideal p
 
 ##### Script Corporativo:
 
-
-
-"Olá, sou a Maria Silva, CEO da TechInnovate. Hoje quero partilhar convosco os nossos resultados do último trimestre e as nossas estratégias para o próximo ano.
-
-Primeiro, alcançámos um crescimento de 35% nas vendas, superando todas as expectativas. Isto deve-se ao vosso trabalho incansável e dedicação à excelência.
-
-Segundo, vamos investir 2 milhões em investigação e desenvolvimento, focando-nos em inteligência artificial e sustentabilidade.
-
-Obrigada pela vossa confiança e continuemos juntos nesta jornada de sucesso."
-
+>"Olá, sou a Maria Silva, CEO da TechInnovate. Hoje quero partilhar convosco os nossos resultados do último trimestre e as nossas estratégias para o próximo ano.
+>Primeiro, alcançámos um crescimento de 35% nas vendas, superando todas as expectativas. Isto deve-se ao vosso trabalho incansável e dedicação à excelência.
+>Segundo, vamos investir 2 milhões em investigação e desenvolvimento, focando-nos em inteligência artificial e sustentabilidade.
+>Obrigada pela vossa confiança e continuemos juntos nesta jornada de sucesso."
 
 
 ##### Script Educativo:
 
-
-
-"Bem-vindos ao Módulo 4 da nossa formação em IA. Sou o professor João e hoje vamos explorar a geração de vídeos com inteligência artificial.
-
-Vamos começar por compreender os tipos de IA para vídeo: texto-para-vídeo, imagem-para-vídeo e vídeo-para-vídeo.
-
-Cada tipo tem as suas aplicações específicas e vamos ver exemplos práticos de como utilizar cada um eficazmente.
-
-No final desta sessão, serão capazes de criar os vossos próprios vídeos usando estas tecnologias revolucionárias."
-
+>"Bem-vindos ao Módulo 4 da nossa formação em IA. Sou o professor João e hoje vamos explorar a geração de vídeos com inteligência artificial.
+>Vamos começar por compreender os tipos de IA para vídeo: texto-para-vídeo, imagem-para-vídeo e vídeo-para-vídeo.
+>Cada tipo tem as suas aplicações específicas e vamos ver exemplos práticos de como utilizar cada um eficazmente.
+>No final desta sessão, serão capazes de criar os vossos próprios vídeos usando estas tecnologias revolucionárias."
 
 ##### Script Marketing:
-"Descubra a nova linha de produtos EcoTech - tecnologia sustentável para o futuro.
-
-Os nossos dispositivos combinam inovação de ponta com responsabilidade ambiental. Materiais 100% recicláveis, energia renovável e design minimalista.
-
-Junte-se a milhares de clientes satisfeitos que já escolheram EcoTech para um futuro mais verde.
-
-Visite ecotech.com e aproveite 20% de desconto na sua primeira compra com o código FUTURO20."
+>"Descubra a nova linha de produtos EcoTech - tecnologia sustentável para o futuro.
+>Os nossos dispositivos combinam inovação de ponta com responsabilidade ambiental. Materiais 100% recicláveis, energia renovável e design minimalista.
+>Junte-se a milhares de clientes satisfeitos que já escolheram EcoTech para um futuro mais verde.
+>Visite ecotech.com e aproveite 20% de desconto na sua primeira compra com o código FUTURO20."
 
 
 #### ✅ Vantagens vs ❌ Limitações
