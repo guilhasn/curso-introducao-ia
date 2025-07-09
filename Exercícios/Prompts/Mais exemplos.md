@@ -1,3 +1,7 @@
+# Gerador de Prompts
+
+> https://neuralwriter.com/pt/prompt-tool/
+
 # Exemplos de Prompts para Obter Respostas Mais Detalhadas do ChatGPT
 
 Para obter respostas mais detalhadas do ChatGPT, é importante estruturar o pedido de forma clara, indicando que desejas profundidade, exemplos, justificações e, se possível, uma abordagem passo a passo. Aqui estão exemplos de prompts eficazes para esse objetivo:
