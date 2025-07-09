@@ -357,26 +357,6 @@ Ferramenta especializada em geração de vídeos com avatares realistas, ideal p
 - ❌ **Dependência online** - Processamento na nuvem
 - ❌ **Personalização limitada** - Gestos pré-definidos
 
-#### 💰 Planos e Preços
-
-##### Personal (€30/mês):
-- 10 minutos de vídeo/mês
-- Avatares básicos
-- Vozes standard
-- Resolução 720p
-
-##### Corporate (€67/mês):
-- 30 minutos de vídeo/mês
-- Avatares premium
-- Vozes premium
-- Resolução 1080p
-- Avatar personalizado
-
-##### Enterprise (Personalizado):
-- Minutos ilimitados
-- Avatares personalizados
-- Integração API
-- Suporte prioritário
 
 #### 🎨 Dicas para Melhores Resultados
 
