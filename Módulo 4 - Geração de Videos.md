@@ -340,91 +340,22 @@ Ferramenta especializada em geração de vídeos com avatares realistas, ideal p
 >Visite ecotech.com e aproveite 20% de desconto na sua primeira compra com o código FUTURO20."
 
 
-#### ✅ Vantagens vs ❌ Limitações
-
-##### Vantagens:
-- ✅ **Sem equipamento** - Apenas texto necessário
-- ✅ **Consistência** - Avatar sempre disponível
-- ✅ **Escalabilidade** - Múltiplos idiomas facilmente
-- ✅ **Custo-efetivo** - Sem atores ou estúdio
-- ✅ **Rapidez** - Produção em minutos
-- ✅ **Atualizações fáceis** - Alterar texto = novo vídeo
-
-##### Limitações:
-- ❌ **Subscrição obrigatória** - Sem versão gratuita completa
-- ❌ **Movimentos limitados** - Focado em busto/meio corpo
-- ❌ **Expressões básicas** - Menos natural que humanos
-- ❌ **Dependência online** - Processamento na nuvem
-- ❌ **Personalização limitada** - Gestos pré-definidos
-
-
-#### 🎨 Dicas para Melhores Resultados
-
-##### Escrita de Scripts:
-- **Tom conversacional** - Natural e direto
-- **Frases curtas** - Melhor sincronização labial
-- **Pausas marcadas** - Usar pontuação adequada
-- **Linguagem clara** - Evitar jargão técnico
-- **Duração ideal** - 60-90 segundos por vídeo
-
-##### Seleção de Avatar:
-- **Público-alvo** - Escolher avatar adequado
-- **Contexto** - Formal vs. casual
-- **Diversidade** - Representação inclusiva
-- **Consistência** - Mesmo avatar para série de vídeos
-- **Vestuário** - Adequar ao setor/empresa
-
-##### Otimização de Voz:
-- **Velocidade** - Nem muito rápido nem lento
-- **Entonação** - Variar para evitar monotonia
-- **Pronunciação** - Verificar palavras técnicas
-- **Idioma** - Escolher sotaque regional apropriado
-
-##### Recursos Humanos:
-- **Onboarding** - Boas-vindas a novos funcionários
-- **Políticas** - Explicação de procedimentos
-- **Formação** - Módulos de compliance
-- **Comunicação** - Anúncios da administração
-
-##### Marketing:
-- **Campanhas globais** - Múltiplos idiomas
-- **Demonstrações** - Apresentação de produtos
-- **Testemunhos** - Porta-vozes virtuais
-- **Redes sociais** - Conteúdo regular
-
-##### Educação:
-- **Cursos online** - Professores virtuais
-- **Tutoriais** - Explicações passo-a-passo
-- **Avaliações** - Feedback personalizado
-- **Microlearning** - Módulos curtos
-#### 📋 Exercício Prático - Synthesia
-
-> **Tarefa:** Criar apresentação corporativa com avatar
-> 
-> **Especificações:**
-> - **Duração:** 60-90 segundos
-> - **Tema:** "Introdução à IA para Vídeo na Empresa"
-> - **Avatar:** Adequado ao contexto profissional
-> - **Idioma:** Português de Portugal
-> 
-> **Processo:**
-> 1. **Registar** trial no Synthesia
-> 2. **Planear** estrutura da apresentação
-> 3. **Escrever** script seguindo boas práticas
-> 4. **Selecionar** avatar e voz apropriados
-> 5. **Gerar** vídeo e avaliar resultado
-> 6. **Iterar** se necessário
-> 
-> **Objetivos:**
-> - Experimentar avatares realistas
-> - Praticar escrita de scripts corporativos
-> - Comparar com métodos tradicionais
-> - Avaliar aplicabilidade empresarial
-
-
 #### 💡 Alternativas ao Synthesia
 
 ##### Ferramentas Similares:
+
+- Vidnoz AI – Opção Gratuita Robusta
+    Site: https://www.vidnoz.com
+
+- Elai.io – Foco Educacional
+    Site: https://elai.io
+
+HeyGen – Qualidade Profissional
+    Site: https://www.heygen.com
+
+Descript – Editor Poderoso
+    Site: https://www.descript.com
+
 - **D-ID** - Animação de fotos
 - **Colossyan** - Avatares corporativos
 - **Hour One** - Apresentações business
