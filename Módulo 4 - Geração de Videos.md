@@ -192,7 +192,28 @@ A IA generativa de vídeo utiliza modelos de deep learning para criar, transform
 
 ### Demonstração
 
-1. Stable Video Diffusion (img2vid)  
+1. AnimateDiff-Lightning
+- Link: >https://huggingface.co/spaces/ByteDance/AnimateDiff-Lightning
+- Descrição: Modelo ultrarrápido que gera vídeos 10x mais rápido que o AnimateDiff original
+- Como usar:
+ -- Acesse o link
+ -- Insira o prompt de texto
+ -- Escolha o modelo base (recomendado: epiCRealism)
+ -- Selecione o número de passos (recomendado: 4 passos)
+ -- Clique em "Generate"
+
+2. Prompts sugeridos:
+
+- "Uma bailarina dançando numa floresta encantada, luz suave, movimento gracioso"
+- "Gato branco brincando com novelo de lã, movimentos ágeis e divertidos"
+- "Ondas do mar batendo numa praia ao pôr do sol, movimento hipnótico"
+
+
+
+
+
+
+
    [https://huggingface.co/spaces/stabilityai/stable-video-diffusion-img2vid](https://huggingface.co/spaces/stabilityai/stable-video-diffusion-img2vid)
 2. Upload de imagem + prompt
 
@@ -224,12 +245,6 @@ A IA generativa de vídeo utiliza modelos de deep learning para criar, transform
 
 ---
 
-## 8. Q&A e Fecho
-
-- Discussão de aplicações no mercado/empresa
-- Limitações e futuro da IA para vídeo
-- Dicas para aprofundamento:  
-  - [Awesome Text-to-Video AI](https://github.com/awesome-ai-ml/awesome-text-to-video-ai)
   - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
 ---
