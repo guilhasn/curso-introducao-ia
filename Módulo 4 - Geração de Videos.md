@@ -1,14 +1,17 @@
 
 
 
-Geminie VEO
+
+
+
+Gemini VEO 3.0
 
 > https://one.google.com/about/google-ai-plans/
 
 **Testar este Prompt:**
 
 - Um plano cinematográfico em câmara lenta de bolachas de chocolate acabadas de sair do forno, numa cozinha acolhedora e iluminada pela luz do sol. Iluminação quente, foco suave, vapor a subir e música suave de fundo.
-
+- Uma bolacha de chocolate gigantesca está no centro de um estádio repleto de gente, rodeada por fãs entusiasmados. A iluminação é dramática, com imagens aéreas captadas por drone, confetti a cair e pessoas a segurar cartazes que dizem "KCC" e "Bolacha do Século". A câmara move-se lentamente em volta da bolacha, ao som de uma música cinematográfica empolgante. Narração: "A história está a ser escrita — a Kevin Cookie Company revela a maior bolacha de chocolate do mundo." 
 
 ----
 ### 3.2 Criação de Vídeos com IA
