@@ -88,7 +88,7 @@ A IA generativa de vídeo utiliza modelos de deep learning para criar, transform
 
 ### Exercício 1 — Prompting
 > Escreva 3 prompts de vídeo detalhados, para diferentes temas (natureza, ação, abstrato).  
-> Compartilhe com o grupo.
+> Partilhe no Prompt Challange: >https://app--ai-prompt-arena-7e2cd150.base44.app/
 
 ---
 
