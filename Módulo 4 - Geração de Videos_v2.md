@@ -497,38 +497,6 @@ transformação temporal, mesmo local em época diferente,
 personagem observa a mudança, contraste visual marcante."
 ```
 
-### 📊 Critérios de Avaliação
-
-#### Técnica (40%):
-- **Qualidade visual** (10%)
-- **Fluidez do movimento** (10%)
-- **Uso adequado de ferramentas** (10%)
-- **Aplicação de técnicas aprendidas** (10%)
-
-#### Criatividade (30%):
-- **Originalidade do conceito** (15%)
-- **Execução criativa** (15%)
-
-#### Prompting (20%):
-- **Estrutura do prompt** (10%)
-- **Especificidade e clareza** (10%)
-
-#### Apresentação (10%):
-- **Comunicação do processo** (5%)
-- **Reflexão sobre resultados** (5%)
-
-### 🎤 Apresentações
-
-#### Estrutura (5 min por pessoa):
-1. **Conceito** (1 min) - Ideia e objetivos
-2. **Processo** (2 min) - Ferramentas e técnicas usadas
-3. **Resultado** (1 min) - Apresentação do vídeo
-4. **Reflexão** (1 min) - Desafios e aprendizagens
-
-#### Feedback em Grupo:
-- **Aspetos positivos** destacados
-- **Sugestões de melhoria** construtivas
-- **Partilha de técnicas** descobertas
 
 ### 📋 Exercício Final — Projeto Completo
 
@@ -544,7 +512,6 @@ personagem observa a mudança, contraste visual marcante."
 > - Criar conteúdo profissional
 > - Partilhar conhecimento
 > 
-> **Tempo:** 90 minutos + 30 min apresentações
 
 ---
 
