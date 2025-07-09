@@ -103,13 +103,14 @@ A IA generativa de vídeo utiliza modelos de deep learning para criar, transform
 1. Aceda a: [https://huggingface.co/spaces](https://huggingface.co/spaces)
 2. Pesquise por "text to video" ou use o modelo [VEO3 Free](https://huggingface.co/spaces/ginigen/VEO3-Free)
 3. Experimente prompts curtos e longos.
+4. Experimente outros modelos.
 
 #### Exemplos de Prompt para Hugging Face
 
-- "A panda eating bamboo in a lush green forest, sunlight streaming through the trees, natural colors, peaceful atmosphere."
-- "Uma astronauta a caminhar lentamente na superfície de Marte, poeira vermelha, céu escuro, estilo cinematográfico."
-- "A close-up of an old book opening by itself, dust particles flying, magical glow, mystical library, fantasy style."
-- "A futuristic city skyline at night, neon lights, flying cars, cyberpunk style."
+- "Um panda a comer bambu numa floresta densa e verdejante, com a luz do sol a atravessar as árvores, cores naturais, ambiente tranquilo."
+- "Uma astronauta a caminhar lentamente na superfície de Marte, com poeira vermelha e céu escuro, estilo cinematográfico."
+- "Um plano aproximado de um livro antigo a abrir-se sozinho, partículas de pó a flutuar, brilho mágico, biblioteca misteriosa, estilo fantasia."
+- "O horizonte de uma cidade futurista à noite, com luzes néon, carros voadores, estilo cyberpunk."
 
 ### Exercício 2 — Hugging Face
 > Gerar um vídeo de 2 a 4 segundos usando um dos modelos disponíveis no Hugging Face Spaces.  
