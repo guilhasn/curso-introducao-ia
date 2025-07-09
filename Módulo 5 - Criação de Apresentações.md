@@ -335,66 +335,6 @@ Criar sumário executivo com pontos principais
 
 **Output:** Organigrama visual com fotos/avatares
 
-### 📈 Ferramentas Complementares
-
-#### 🎯 Miro AI - Diagramas Colaborativos
-
-##### Funcionalidades:
-- **Mind maps** automáticos
-- **Diagramas de fluxo** inteligentes
-- **Colaboração** em tempo real
-- **Templates** por metodologia
-
-##### Como Usar:
-1. **Aceder:** [https://miro.com/](https://miro.com/)
-2. **Criar board** novo
-3. **Usar "Miro Assist"** para geração automática
-4. **Colaborar** com equipa
-5. **Exportar** para apresentações
-
-#### 🎨 Whimsical - Wireframes e Fluxos
-
-##### Funcionalidades:
-- **Flowcharts** inteligentes
-- **Wireframes** rápidos
-- **Mind maps** estruturados
-- **Docs** integrados
-
-##### Aplicações:
-- Processos de negócio
-- User journeys
-- Arquitecturas de sistema
-- Brainstorming visual
-
-### 🔧 Integração com Apresentações
-
-#### Workflow Recomendado:
-1. **Identificar conceitos** que precisam visualização
-2. **Criar descrições** claras no Napkin.ai
-3. **Gerar visualizações** e selecionar melhores
-4. **Exportar** em alta resolução
-5. **Integrar** nas apresentações principais
-6. **Ajustar** tamanho e posicionamento
-
-#### 🎯 Casos de Uso Ideais:
-
-##### **Apresentações Executivas:**
-- Organigrama da empresa
-- Fluxos de aprovação
-- Estratégias de mercado
-- Modelos de negócio
-
-##### **Formações Técnicas:**
-- Arquitecturas de sistema
-- Processos de desenvolvimento
-- Fluxos de dados
-- Procedimentos de segurança
-
-##### **Propostas Comerciais:**
-- Jornada do cliente
-- Processo de implementação
-- Estrutura de serviços
-- Cronograma de projeto
 
 ### 📋 Exercício 2 - Visualizações Conceptuais
 
@@ -413,10 +353,14 @@ Criar sumário executivo com pontos principais
 5. Exportar em alta qualidade
 6. Integrar numa apresentação simples
 
-**Tempo:** 30 minutos  
 **Entrega:** 3 visualizações + apresentação com integração
 
 ---
+
+
+
+
+
 
 ## 🎯 Módulo IV - Projeto Prático
 
@@ -425,79 +369,106 @@ Criar sumário executivo com pontos principais
 - Criar apresentação profissional completa
 - Experimentar integração de múltiplas ferramentas
 
-### 🏆 Projeto Final - Apresentação Completa
+### 🏆 Projeto Final - Programa Eleitoral
 
-#### 📋 Especificações:
-- **Duração:** 8-10 slides
-- **Tema:** À escolha (sugestões abaixo)
+#### 📋 Cenário Real:
+**João Silva** é candidato à **Junta de Freguesia de Vila Digital** e precisa de uma apresentação do seu programa eleitoral para apresentar aos munícipes durante a campanha.
+
+#### 🎭 Contexto do Projeto:
+- **Candidato:** João Silva
+- **Cargo:** Presidente da Junta de Freguesia
+- **Freguesia:** Vila Digital
+- **Público-alvo:** Munícipes locais (todas as idades)
+- **Objetivo:** Apresentar programa eleitoral de forma clara e envolvente
+
+#### 📋 Especificações da Apresentação:
+- **Duração:** 10-12 slides
 - **Ferramentas:** Mínimo 2 das apresentadas
 - **Elementos:** Texto, visualizações, design profissional
+- **Tom:** Acessível, confiável, próximo da comunidade
 
-#### 🎭 Temas Sugeridos:
+#### 🔧 Estrutura Obrigatória do Programa Eleitoral:
 
-##### **Corporativo:**
-- Plano estratégico departamental
-- Proposta de transformação digital
-- Apresentação de resultados anuais
-- Lançamento de novo produto/serviço
+1. **Slide Título**
+   - Nome do candidato: João Silva
+   - Cargo: Candidato a Presidente da Junta
+   - Freguesia: Vila Digital
+   - Slogan de campanha
 
-##### **Educativo:**
-- Formação sobre nova tecnologia
-- Workshop de competências
-- Conferência académica
-- Material didático interativo
+2. **Apresentação Pessoal**
+   - Breve biografia do João Silva
+   - Ligação à comunidade
+   - Experiência relevante
 
-##### **Comercial:**
-- Proposta para cliente potencial
-- Apresentação de capacidades
-- Pitch para investidores
-- Demonstração de produto
+3. **Diagnóstico da Freguesia**
+   - Principais desafios identificados
+   - Oportunidades de melhoria
+   - Visualização com Napkin.ai dos problemas atuais
 
-#### 🔧 Estrutura Recomendada:
+4. **Visão para Vila Digital**
+   - Objetivo principal do mandato
+   - Visão de futuro para a freguesia
+   - Valores orientadores
 
-1. **Slide título** com informações essenciais
-2. **Agenda/Índice** para orientação
-3. **Introdução** ao tema/problema
-4. **Desenvolvimento** com 3-4 pontos principais
-5. **Visualizações** criadas com Napkin.ai
-6. **Conclusões** e próximos passos
-7. **Contactos** e call-to-action
+5. **Eixo 1: Modernização Digital**
+   - Digitalização dos serviços públicos
+   - WiFi gratuito em espaços públicos
+   - Formação digital para seniores
 
-#### 💡 Dicas para o Projeto:
-- **Coerência visual** em todos os slides
-- **Narrativa fluida** entre secções
-- **Visualizações adequadas** ao conteúdo
-- **Profissionalismo** no design
-- **Clareza** da mensagem
+6. **Eixo 2: Qualidade de Vida**
+   - Melhoria dos espaços verdes
+   - Atividades para jovens e famílias
+   - Apoio aos idosos
 
-### 🎪 Apresentação dos Resultados
+7. **Eixo 3: Desenvolvimento Económico**
+   - Apoio ao comércio local
+   - Promoção do turismo
+   - Criação de emprego
 
-#### 📅 Formato:
-- **Duração:** 5 minutos por apresentação
-- **Foco:** Demonstrar aplicação das ferramentas
-- **Feedback:** Comentários construtivos do grupo
+8. **Eixo 4: Participação Cidadã**
+   - Assembleias de freguesia participativas
+   - Plataforma digital para sugestões
+   - Orçamento participativo
 
-#### 🎤 Estrutura Sugerida:
-1. **Introdução** (1 min) - Contexto e objetivos
-2. **Demonstração** (3 min) - Apresentação principal
-3. **Reflexão** (1 min) - Aprendizagens e desafios
+9. **Cronograma de Implementação**
+   - Visualização timeline com Napkin.ai
+   - Primeiros 100 dias
+   - Metas para todo o mandato
 
-### 📋 Exercício Final - Projeto Completo
+10. **Compromissos e Contactos**
+    - Principais compromissos eleitorais
+    - Informações de contacto
+    - Call-to-action para o voto
 
-**Tarefa:** Criar e apresentar projeto final
+#### 💡 Prompts Específicos para o Projeto:
 
-**Fases:**
-1. **Planeamento** (15 min) - Definir tema, estrutura, ferramentas
-2. **Criação** (75 min) - Desenvolver apresentação completa
-3. **Refinamento** (15 min) - Ajustes finais
-4. **Apresentação** (5 min) - Demonstrar resultado
-5. **Feedback** (5 min) - Comentários do grupo
+##### Para Gamma/Canva:
+Criar apresentação de programa eleitoral para João Silva, candidato à Junta de Freguesia de Vila Digital, com 10 slides, incluindo diagnóstico local, propostas concretas por eixos temáticos, cronograma de implementação, estilo profissional mas próximo da comunidade, cores que transmitam confiança e modernidade
 
-**Entregáveis:**
-- Apresentação final (PDF + formato original)
-- Breve reflexão sobre processo e ferramentas utilizadas
+##### Para Napkin.ai (Visualizações):
+Visualizar os principais desafios da Freguesia de Vila Digital: falta de digitalização dos serviços, espaços públicos degradados, comércio local em declínio, baixa participação cidadã, conectados entre si num diagrama de problemas
 
-**Tempo Total:** 2 horas
+Cronograma de implementação do programa eleitoral: Primeiros 100 dias com implementação de WiFi público e digitalização básica, primeiros 6 meses com renovação de espaços verdes, primeiro ano com lançamento do orçamento participativo, todo o mandato com desenvolvimento económico sustentável
+
+#### 🎨 Elementos Visuais Obrigatórios:
+
+##### **Identidade Visual:**
+- Paleta de cores consistente (sugestão: azul confiança + verde esperança)
+- Logotipo ou símbolo da candidatura
+- Fotografia profissional do candidato
+
+##### **Visualizações com Napkin.ai:**
+- Diagrama dos problemas atuais
+- Estrutura do programa por eixos
+- Timeline de implementação
+- Modelo de participação cidadã
+
+##### **Elementos Gráficos:**
+- Ícones para cada eixo temático
+- Infografias com dados da freguesia
+- Imagens da localidade (se disponíveis)
+
+
 
 ---
 
