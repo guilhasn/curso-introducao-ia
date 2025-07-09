@@ -218,7 +218,7 @@ ambiente acolhedor, luz natural."
 ### 🎭 Animação de Imagens
 
 #### Stable Video Diffusion
-- **Link:** [Stable Video Diffusion](https://huggingface.co/spaces/stabilityai/stable-video-diffusion-img2vid)
+- **Link:** [Stable Video Diffusion](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt)
 - **Função:** Imagem → Vídeo (2-4 segundos)
 - **Dicas:** 
   - ✅ Use imagens bem iluminadas
