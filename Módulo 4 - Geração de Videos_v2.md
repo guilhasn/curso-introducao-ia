@@ -1,8 +1,6 @@
-# Formação — Geração de Vídeo com Inteligência Artificial (IA)
+# 🧠 Módulo 4: Geração de Vídeo com Inteligência Artificial
 
 **Formato:** Sessão teórico-prática, com exemplos e exercícios  
-**Público:** Profissionais de marketing, criadores de conteúdo, entusiastas de IA  
-**Pré-requisitos:** Conta Google, acesso à internet, curiosidade!
 
 ---
 
