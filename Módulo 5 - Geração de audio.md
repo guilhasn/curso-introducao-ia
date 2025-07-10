@@ -1,5 +1,5 @@
 
-# 🎵 Módulo 6: Geração de Áudio com Inteligência Artificial
+# 🎵 Módulo 5: Geração de Áudio com Inteligência Artificial
 
 **Formato:** Sessão teórico-prática, com exemplos e exercícios  
 **Duração:** 2.5 horas  
