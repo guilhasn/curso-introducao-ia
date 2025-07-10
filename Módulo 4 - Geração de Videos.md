@@ -718,6 +718,6 @@ A: Básico: 2-3 horas. Proficiência: 2-3 semanas de prática regular.
 
 ---
 
-**Fim da Formação**
+**Recursos adicionais**
+>https://claude.ai/public/artifacts/66197188-c788-4626-9e84-12b04d660efa
 
-*Obrigado pela participação! Continue explorando e criando! 🎬✨*
