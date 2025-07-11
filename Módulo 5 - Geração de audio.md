@@ -380,16 +380,11 @@ Folk pop português, guitarra acústica e piano, voz masculina calorosa, tom esp
 3. **Gerar variações** se não ficou satisfeito
 4. **Selecionar** melhor versão
 
-**Entregáveis:**
-- Hino completo (MP3)
-- Letra utilizada
-- Screenshot do processo
-
-**Apresentação:**
-- **Duração:** 3 minutos
-- **Reproduzir** o hino criado
-- **Explicar** brevemente as escolhas feitas
-
-**Tempo Total:** 60 minutos
 
 **Objetivo:** Demonstrar como usar IA para criar identidade sonora de campanha de forma rápida e eficaz! 🎵🗳️
+
+
+Mais recursos
+> https://riverside.fm/transcription
+
+
