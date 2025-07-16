@@ -122,17 +122,15 @@ Lista atualizada de ferramentas gratuitas para criação, edição e design de i
 
 ---
 
-## 🛠️ Contribuições
-
-Queres sugerir uma nova ferramenta? Faz um *pull request* ou abre uma *issue*!
-
----
-
-
 - [Chatbase](https://www.chatbase.co/) - Para criação de chatbots
 - [Kling AI](https://www.futurepedia.io/tool/kling) - Para criação de vídeos
 - [Lovable](https://www.futurepedia.io/tool/lovable) - Para desenvolvimento web
 - [Futurepedia Tools](https://www.futurepedia.io/) - Directório de ferramentas IA
+
+
+### Automaçao de Browsers 
+
+- [BrowseAI](https://www.browse.ai/)
 
 ### Ferramentas Emergentes Destacadas:
 
@@ -152,5 +150,8 @@ Queres sugerir uma nova ferramenta? Faz um *pull request* ou abre uma *issue*!
 - [Flash](https://www.futurepedia.io/tool/flash) - Shopping inteligente e insights
 - [TextLayer](https://www.futurepedia.io/tool/textlayer) - Integração empresarial IA
 - [Transkriptor](https://www.futurepedia.io/tool/transkriptor) - Transcrição IA precisa
+
+
+
 
 ---
