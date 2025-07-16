@@ -210,17 +210,6 @@ Sou director comercial e preciso analisar a performance de vendas da minha empre
 8. Sugere 2 ações concretas para aumentar vendas
 ````
 
-**Resultados Esperados:**
-
-* Produtos: Smartphone iPhone, Impressora HP, Cadeira Ergonómica lideram
-* Região: Lisboa representa 28% das vendas totais
-* Vendedor: João Silva com €45.678 em vendas
-* Sazonalidade: Picos em Dezembro e Março
-* Margem: Mobiliário (32%), Tecnologia (28%), Material (21%)
-* Gráfico: Linha temporal com tendência crescente
-* Oportunidades: Expansão Norte, produtos premium, B2B
-* Ações: Campanha Q1, formação vendedores
-
 ### 🎯 Exemplo 2: Análise de RH (Dataset Recursos Humanos)
 
 **Contexto:** Análise de capital humano para estratégia de RH
@@ -240,18 +229,6 @@ Sou director de RH e preciso analisar a situação dos nossos recursos humanos. 
 8. Identifica 3 problemas críticos de RH
 9. Sugere 3 ações para melhorar satisfação
 ```
-
-**Resultados Esperados:**
-
-* Distribuição: RH (176), IT (173), Finanças (172) - equilibrado
-* Salários: IT €48.4k, Finanças €48.1k, Vendas €43.3k
-* Correlação: Idade vs Salário R=0.67 (moderada)
-* Formação: IT 40h/ano, outros 25h/ano
-* Absentismo: 4.9 dias/ano médio, variação por performance
-* Género: Distribuição equilibrada na maioria dos departamentos
-* Dashboard: Tabela interativa com filtros
-* Problemas: Disparidade salarial, formação desigual, absentismo
-* Ações: Programa formação, revisão salarial, wellness
 
 ## ✏️ Exercício Prático Completo (20 minutos)
 
