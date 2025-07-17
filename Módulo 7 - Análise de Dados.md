@@ -1,4 +1,4 @@
-# 🎯 Módulo 6: Análise de Dados Excel com IA Generativa
+# 🎯 Módulo 7: Análise de Dados Excel com IA Generativa
 
 **Formato:** Sessão prática e demonstrativa  
 **Duração:** 45 minutos  
