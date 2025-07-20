@@ -64,7 +64,8 @@ ChatBOTs
 
 
 
-
+N8N: 
+- Temaplates da comunidade: https://n8n.io/workflows/categories/ai/
 
 Outros recursos: 
 **[Instalar o n8n Localmente](https://www.youtube.com/watch?v=-ErfsM2TYsM&ab_channel=NetworkChuck%282%29)**
