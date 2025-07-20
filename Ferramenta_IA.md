@@ -21,7 +21,7 @@ Bem-vindo à lista curada de ferramentas de IA úteis para potenciar a criativid
 ## ✍️ Agentes de IA
 - [GenSpark](ttps://www.genspark.ai/) – Super agente
 - [Manus AI](https://www.manus.ai/) – Agente funcionalidades avançadas.  
-
+- [Kimi K2](https://www.kimi.com/)
 
 ---
 
