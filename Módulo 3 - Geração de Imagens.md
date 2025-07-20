@@ -369,6 +369,7 @@ Abaixo, apresentamos cinco exercícios para praticar a criação de imagens com 
 - **Inspiração**: Consulte plataformas como Dribbble ou Behance para ideias de estilos visuais.  
 - **Bibliotecas de Prompts**: Explore sites como comandosdevoz.com para mais ideias de prompts.  
 - **Diretrizes da Marca**: Consulte sempre o guia de estilo da sua marca para cores, fontes e tom para manter a consistência.
+- **[Criar Flyers no Canva Magic IA](https://newsletter.futurepedia.io/p/magic-wand-for-your-marketing-kinda-07-15-2025?_bhlid=62defd8c459faf309772790a3a89842a1a1aa60c&last_resource_guid=Post%3A8025f593-4736-4588-88bf-7175ee8c7ecd&utm_campaign=magic-wand-for-your-marketing-kinda&utm_medium=newsletter&utm_source=futurepedia)
 
 Ao praticar estes exercícios, dominará a criação de visuais consistentes com a marca usando o ChatGPT, poupando tempo e aumentando o impacto das suas campanhas. Partilhe os seus resultados no GitHub ou nas redes sociais para inspirar outros!
 
