@@ -61,3 +61,10 @@ ChatBOTs
 - **Geração de leads**
 - **Inquéritos interactivos**
 - **Guias educacionais**
+
+
+
+
+
+
+**[Instalar o n8n Localmente](https://www.youtube.com/watch?v=-ErfsM2TYsM&ab_channel=NetworkChuck%282%29)**
