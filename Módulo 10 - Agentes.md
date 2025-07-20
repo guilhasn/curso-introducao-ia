@@ -66,5 +66,7 @@ ChatBOTs
 
 
 
-
+Outros recursos: 
 **[Instalar o n8n Localmente](https://www.youtube.com/watch?v=-ErfsM2TYsM&ab_channel=NetworkChuck%282%29)**
+
+**[String](https://pipedream.com/)**
