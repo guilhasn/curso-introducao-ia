@@ -7,6 +7,7 @@
 
 ---
 
+## https://vercel.com/home
 ## 🌐 Netlify - Deploy e Hosting Inteligente
 
 ### 📍 Posicionamento:
