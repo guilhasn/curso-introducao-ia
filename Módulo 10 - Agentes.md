@@ -66,7 +66,7 @@ ChatBOTs
 
 N8N: 
 
-
+https://docs.n8n.io/courses/level-one/?_gl=1*1n4d5b6*_gcl_au*MTU1NzUyMjY4MS4xNzUzMDM0MDIw*_ga*MTcyNTk3ODY3NC4xNzQ5Njc3NDI4*_ga_0SC4FF2FH9*czE3NTMxMzE4MTUkbzExJGcxJHQxNzUzMTMzMTg5JGo1MiRsMCRoMA.. 
 - Exercício1 :(https://docs-n8n-io.translate.goog/advanced-ai/intro-tutorial/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-PT&_x_tr_pto=tc#congratulations)
 
 
