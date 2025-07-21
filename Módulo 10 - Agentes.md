@@ -65,7 +65,12 @@ ChatBOTs
 
 
 N8N: 
-- Temaplates da comunidade: https://n8n.io/workflows/categories/ai/
+
+
+- Exercício1 :(https://docs-n8n-io.translate.goog/advanced-ai/intro-tutorial/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-PT&_x_tr_pto=tc#congratulations)
+
+
+- Templates da comunidade: https://n8n.io/workflows/categories/ai/
 
 Outros recursos: 
 **[Instalar o n8n Localmente](https://www.youtube.com/watch?v=-ErfsM2TYsM&ab_channel=NetworkChuck%282%29)**
