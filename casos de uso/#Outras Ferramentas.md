@@ -8,4 +8,3 @@ Mais casos práticos:
 - https://neuralwriter.com/pt/prompt-tool/#progress=10
 - https://poe.com/
 - https://www.meetjamie.ai/blog/chat-gpt-4
-- 
