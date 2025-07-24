@@ -11,10 +11,10 @@
 ### 1. Introdução 
 **Objetivo**: Contextualizar a importância da ética e segurança na IA e sua relevância no futuro.
 
-- **Atividade**: Discussão inicial (5 minutos)
+- **Atividade**: Discussão inicial
   - Pergunta aos participantes: "Quais são os principais benefícios e riscos que você associa ao uso da IA no dia a dia?"
   - Anotar respostas em um quadro ou ferramenta colaborativa para referência ao longo do módulo.
-- **Conteúdo** (5 minutos):
+- **Conteúdo** :
   - Breve visão geral sobre o impacto da IA em áreas como saúde, educação, negócios e segurança.
   - Introdução aos conceitos de ética em IA, com ênfase em privacidade, transparência e responsabilidade.
   - Referência ao currículo da Microsoft (AI for Beginners): A ética é um pilar essencial para garantir que a IA seja usada de forma responsável.[](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/7-Ethics/README.md)
@@ -24,7 +24,7 @@
 ### 2. Boas Práticas no Uso Responsável da IA
 **Objetivo**: Explorar práticas para proteger dados pessoais e comerciais ao usar IA.
 
-- **Conteúdo** (10 minutos):
+- **Conteúdo** :
   - **Princípios de IA Responsável**: Baseado no framework da Microsoft, que inclui:
     - **Equidade**: Garantir que os modelos de IA não perpetuem vieses ou discriminações.
     - **Transparência**: Explicar como os modelos de IA tomam decisões.
@@ -43,7 +43,7 @@
 ### 3. Riscos, Limitações e Implicações Éticas da IA
 **Objetivo**: Compreender os desafios éticos e limitações técnicas da IA.
 
-- **Conteúdo** (10 minutos):
+- **Conteúdo** :
   - **Riscos**:
     - **Vieses Algorítmicos**: Modelos treinados com dados enviesados podem amplificar desigualdades (ex.: reconhecimento facial com baixa precisão para certos grupos étnicos).
     - **Falta de Transparência**: Modelos de "caixa preta" dificultam a compreensão de decisões.
@@ -61,7 +61,7 @@
 ### 4. Mantendo-se Atualizado com Avanços na IA 
 **Objetivo**: Incentivar o aprendizado contínuo e acompanhar tendências em IA.
 
-- **Conteúdo** (5 minutos):
+- **Conteúdo**:
   - **Fontes Confiáveis**:
     - Repositórios como o da Microsoft (AI for Beginners, Generative AI for Beginners) e Azure AI Foundry.[](https://github.com/microsoft/AI-For-Beginners/blob/main/README.md)[](https://github.com/microsoft/generative-ai-for-beginners)
     - Comunidades como o Azure AI Discord e fóruns de desenvolvedores.
