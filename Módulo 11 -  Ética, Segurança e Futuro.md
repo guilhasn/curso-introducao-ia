@@ -37,10 +37,6 @@
     - Evitar o uso de dados sensíveis sem consentimento explícito.
   - **Cultura Ética**: Criar uma cultura organizacional que priorize a ética, com incentivos para compliance e práticas escaláveis.
 
-- **Atividade Prática** (10 minutos):
-  - **Estudo de Caso**: Dividir os participantes em grupos e fornecer um cenário onde uma empresa usa IA para análise de currículos, mas o modelo apresenta viés de gênero.
-    - Pergunta: Como a empresa pode mitigar o viés e garantir práticas éticas?
-    - Cada grupo apresenta uma solução, com base nos princípios discutidos.
 
 ---
 
@@ -60,13 +56,6 @@
     - Necessidade de frameworks éticos para orientar o desenvolvimento e uso da IA.
     - Importância de envolver comunidades diversas no design de sistemas de IA para evitar exclusão.
 
-- **Atividade Interativa** (10 minutos):
-  - **Debate Guiado**: Dividir a sala em dois grupos:
-    - Grupo 1: Defende o uso de IA em vigilância para segurança pública.
-    - Grupo 2: Argumenta contra, destacando riscos éticos e de privacidade.
-    - Cada grupo tem 5 minutos para preparar argumentos e 5 minutos para debater.
-  - Moderador (instrutor) resume os pontos principais, conectando ao conteúdo.
-
 ---
 
 ### 4. Mantendo-se Atualizado com Avanços na IA 
@@ -85,9 +74,6 @@
     - Participar de cursos online, como os da Microsoft Learn (ex.: Principles of Responsible AI).[](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/02-ethics/README.md)
     - Contribuir para projetos open-source no GitHub para aprender na prática.
 
-- **Atividade Final** (5 minutos):
-  - **Plano de Ação**: Cada participante escreve um compromisso pessoal para se manter atualizado (ex.: "Vou me inscrever no Azure AI Discord" ou "Vou ler um artigo por semana sobre IA responsável").
-  - Opcional: Compartilhar compromissos em um mural colaborativo.
 
 ---
 
